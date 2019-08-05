@@ -1,25 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://jforsyth:Q:.github.io/authors/admin/</link>
-      <atom:link href="https://jforsyth:Q:.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/admin/</link>
+      <atom:link href="https://jforsyth.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jason Forsyth&#39;s Personal Website</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
     <image>
-      <url>https://jforsyth:Q:.github.io/img/icon-192.png</url>
-      <title>Academic</title>
-      <link>https://jforsyth:Q:.github.io/authors/admin/</link>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Jason Forsyth&#39;s Personal Website</title>
+      <link>https://jforsyth.github.io/authors/admin/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jforsyth:Q:.github.io/authors/admin/</link>
+      <link>https://jforsyth.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth:Q:.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <guid>https://jforsyth.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Jason Forsyth is an Assistant Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/pervasive computing and engineering education. Previously he was an Assistant Professor of Electrical and Computer Engineering at York College of Pennsylvania from 2015 – 2018.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;p&gt;His wearable computing work develops safety systems that provide continuous monitoring and sensing to protect human life. Previous work examined the role of wearable pulse oximetry in protecting construction workers from carbon monoxide poisoning and developing a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation.&lt;/p&gt;
+
+&lt;p&gt;Jason is the recipient of the 2012 Best Paper Award from IEEE Transactions on Automation Science and Engineering for working on wearable monitoring of carbon monoxide poisoning in construction workers.&lt;/p&gt;
 </description>
     </item>
     

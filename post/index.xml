@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Academic</title>
-    <link>https://jforsyth:Q:.github.io/post/</link>
-      <atom:link href="https://jforsyth:Q:.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <title>News | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/post/</link>
+      <atom:link href="https://jforsyth.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
     <image>
-      <url>https://jforsyth:Q:.github.io/img/icon-192.png</url>
-      <title>Posts</title>
-      <link>https://jforsyth:Q:.github.io/post/</link>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>News</title>
+      <link>https://jforsyth.github.io/post/</link>
     </image>
     
   </channel>
