@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Stewart | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/michael-stewart/</link>
+      <atom:link href="https://jforsyth.github.io/authors/michael-stewart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Stewart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Michael Stewart</title>
+      <link>https://jforsyth.github.io/authors/michael-stewart/</link>
+    </image>
+    
+    <item>
+      <title>EduGit: Toward a Platform for Publishing and Adopting Course Content</title>
+      <link>https://jforsyth.github.io/publication/edugit/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/edugit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JMU | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/categories/jmu/</link>
+      <atom:link href="https://jforsyth.github.io/categories/jmu/index.xml" rel="self" type="application/rss+xml" />
+    <description>JMU</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>JMU</title>
+      <link>https://jforsyth.github.io/categories/jmu/</link>
+    </image>
+    
+    <item>
+      <title>Undergraduate Student Presentation at ACM CAPWIC</title>
+      <link>https://jforsyth.github.io/post/capwic/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/capwic/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://jforsyth.github.io/img/sanarea-ali-capwic.jpg&#34; alt=&#34;Sanarea Ali at CAPWIC 2019&#34; title=&#34;Sanarea Ali at CAPWIC 2019&#34;&gt;&lt;figcaption&gt;Sanarea Ali at CAPWIC 2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;JMU Engineering student, Sanarea Ali, gave a flash talk on her proposed wearable computing system for physical rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Her research examines how wearable computing can support clinicians in understanding patient injuries and improving their recovery. The abstract of her talk is included &lt;a href=&#34;https://jforsyth.github.io/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joining JMU Engineering Faculty</title>
+      <link>https://jforsyth.github.io/post/joinjmu/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/joinjmu/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be joining the Department of Engineering at James Madison University starting Fall 2018. I am excited to work with my new colleagues and develop new bridges between engineering, computer science, and other interdisciplinary programs at JMU.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

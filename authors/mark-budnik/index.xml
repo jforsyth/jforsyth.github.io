@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Budnik | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/mark-budnik/</link>
+      <atom:link href="https://jforsyth.github.io/authors/mark-budnik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Budnik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Mark Budnik</title>
+      <link>https://jforsyth.github.io/authors/mark-budnik/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Service-Learning Projects on Capstone Student Motivation</title>
+      <link>https://jforsyth.github.io/publication/asee2018multi/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2018multi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

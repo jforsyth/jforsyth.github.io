@@ -5,12 +5,180 @@
     <link>https://jforsyth.github.io/publication/</link>
       <atom:link href="https://jforsyth.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://jforsyth.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>EduGit: Toward a Platform for Publishing and Adopting Course Content</title>
+      <link>https://jforsyth.github.io/publication/edugit/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/edugit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement in Practice: Engaging with the Community One Bike at a Time</title>
+      <link>https://jforsyth.github.io/publication/asee2019jmu/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2019jmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
+      <link>https://jforsyth.github.io/publication/asee2019ycp/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2019ycp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smart Sensor Network for an Automated Urban Greenhouse</title>
+      <link>https://jforsyth.github.io/publication/icrest/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/icrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Service-Learning Projects on Capstone Student Motivation</title>
+      <link>https://jforsyth.github.io/publication/asee2018multi/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2018multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Student Project using Robotic Operating System (ROS) for Undergraduate Research</title>
+      <link>https://jforsyth.github.io/publication/ros-student/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ros-student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits and Challenges of Transitioning to Community Service Multidisciplinary Capstone Projects</title>
+      <link>https://jforsyth.github.io/publication/greenhouse/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/greenhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Based Learning Using the Robotic Operating System (ROS) for Undergraduate Research Applications</title>
+      <link>https://jforsyth.github.io/publication/ros-ycp/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ros-ycp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The design of smart garments for motion capture and activity classification</title>
+      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of GPS-based Warning System for Roadside Workers</title>
+      <link>https://jforsyth.github.io/publication/iccv/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engaging Middle School Students in SEAD Learning Through Smart Product Design</title>
+      <link>https://jforsyth.github.io/publication/fablab/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/fablab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Behavioral Information from Electronic Storyboards</title>
+      <link>https://jforsyth.github.io/publication/eics/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/eics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Pedagogy for Pervasive Computing Design Processes: An Evaluative Analysis</title>
+      <link>https://jforsyth.github.io/publication/asee-ubi/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee-ubi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Form, Function and Performances in a Musical Instrument MAKErs Camp</title>
+      <link>https://jforsyth.github.io/publication/sigcse/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/sigcse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/puc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/puc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
+      <link>https://jforsyth.github.io/publication/idsa/</link>
+      <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/idsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning</title>
+      <link>https://jforsyth.github.io/publication/tase-journal/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/tase-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for Interdisciplinary Design of Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ipjcc/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ipjcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Design Course for Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/iswc-2011/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/iswc-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers</title>
+      <link>https://jforsyth.github.io/publication/percom/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/percom/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

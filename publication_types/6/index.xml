@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/publication_types/6/</link>
+      <atom:link href="https://jforsyth.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>6</title>
+      <link>https://jforsyth.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>The design of smart garments for motion capture and activity classification</title>
+      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

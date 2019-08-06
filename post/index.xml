@@ -5,12 +5,61 @@
     <link>https://jforsyth.github.io/post/</link>
       <atom:link href="https://jforsyth.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>News</title>
       <link>https://jforsyth.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Publications at ASEE 2019 and Election to Program Chair</title>
+      <link>https://jforsyth.github.io/post/asee2019/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/asee2019/</guid>
+      <description>&lt;p&gt;I am co-author on two papers this year at ASEE. The first, a collaboration with my JMU colleagues on our sophomore engineering design course that creates human-powered vehicles for persons with limited mobility. Our paper “Engagement in Practice: Engaging with the Community One Bike at a Time” can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/engagement-in-practice-engaging-with-the-community-one-bike-at-a-time.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second paper reports on previous work at York College with our freshman engineering experience and the results of a new integrative activity to cover electrical and computer engineering topics. Our paper “A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students ” can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/a-seven-week-module-to-introduce-electrical-and-computer-engineering-to-freshmen-engineering-students.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, I have been elected as the Program Chair for the ASEE
+Entrepreneurship and Engineering Innovation and division. I’m looking forward to reading all the abstracts and papers for the 2020 program in Montreal!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Student Presentation at ACM CAPWIC</title>
+      <link>https://jforsyth.github.io/post/capwic/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/capwic/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://jforsyth.github.io/img/sanarea-ali-capwic.jpg&#34; alt=&#34;Sanarea Ali at CAPWIC 2019&#34; title=&#34;Sanarea Ali at CAPWIC 2019&#34;&gt;&lt;figcaption&gt;Sanarea Ali at CAPWIC 2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;JMU Engineering student, Sanarea Ali, gave a flash talk on her proposed wearable computing system for physical rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Her research examines how wearable computing can support clinicians in understanding patient injuries and improving their recovery. The abstract of her talk is included &lt;a href=&#34;https://jforsyth.github.io/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joining JMU Engineering Faculty</title>
+      <link>https://jforsyth.github.io/post/joinjmu/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/joinjmu/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be joining the Department of Engineering at James Madison University starting Fall 2018. I am excited to work with my new colleagues and develop new bridges between engineering, computer science, and other interdisciplinary programs at JMU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications at ASEE 2018</title>
+      <link>https://jforsyth.github.io/post/asee2018/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/post/asee2018/</guid>
+      <description>&lt;p&gt;Our paper “Effects of Service-Learning Projects on Capstone Student Motivation” has been accepted into the Multidisciplinary Engineering Division for ASEE 2018. Co-authors are Dr. Mark Budnik (Valparaiso), Dr. Randi Shedlosky (YCP), and Dr. Jeff Will (Valparaiso). The paper examines student motivation differences in service and non-service capstone projects. A pre-print of the paper can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/ASEE-Multi-Pre-print-2018.pdf&#34;&gt;here&lt;/a&gt; and and the presentation slides &lt;a href=&#34;https://jforsyth.github.io/pdf/ASEE-Multi-2018-Presentation.pdf&#34;&gt;here&lt;/a&gt;. The abstract in included below:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Many engineering programs incorporate project-based, service learning into traditional classes and capstone experience. These projects focus on service-related challenges that impact the local, national, or international community and could be described as “humanitarian” or “for the greater good”. While these projects have shown positive benefits for recruitment, retention, and student diversity, what has been unexamined is whether student motivations in the projects differ from their peers in more traditional capstone projects. We hypothesize that students in service-oriented capstone projects may feel greater motivation and engagement with their project due to its service components as compared to their peers in other capstone projects.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We address this question by examining the experiences of capstone students at two different institutions. York College of Pennsylvania and Valparasio are both small, comprehensive, private universities with engineering programs that engage in a variety of capstone projects. At each institution we administered surveys with capstone students to assess their interests, motivations, and engagement in their capstone projects. By comparing student responses and evaluating the level of service that each project embodies, we can assess whether students in differing projects show different motivations. Our results provide insights into methods for maintaining student success in capstone projects and for selecting future projects.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamie Simmons | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/jamie-simmons/</link>
+      <atom:link href="https://jforsyth.github.io/authors/jamie-simmons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jamie Simmons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 25 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Jamie Simmons</title>
+      <link>https://jforsyth.github.io/authors/jamie-simmons/</link>
+    </image>
+    
+    <item>
+      <title>Engaging Middle School Students in SEAD Learning Through Smart Product Design</title>
+      <link>https://jforsyth.github.io/publication/fablab/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/fablab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

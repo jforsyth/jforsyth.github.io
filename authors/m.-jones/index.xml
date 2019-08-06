@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Jones | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/m.-jones/</link>
+      <atom:link href="https://jforsyth.github.io/authors/m.-jones/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Jones</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>M. Jones</title>
+      <link>https://jforsyth.github.io/authors/m.-jones/</link>
+    </image>
+    
+    <item>
+      <title>The design of smart garments for motion capture and activity classification</title>
+      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <description>&lt;p&gt;Further details on your publication can be written here using &lt;em&gt;Markdown&lt;/em&gt; for formatting. This text will be displayed on the Publication Detail page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

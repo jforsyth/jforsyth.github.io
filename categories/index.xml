@@ -5,12 +5,36 @@
     <link>https://jforsyth.github.io/categories/</link>
       <atom:link href="https://jforsyth.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>Categories</title>
       <link>https://jforsyth.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>ASEE</title>
+      <link>https://jforsyth.github.io/categories/asee/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/categories/asee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JMU</title>
+      <link>https://jforsyth.github.io/categories/jmu/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/categories/jmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research</title>
+      <link>https://jforsyth.github.io/categories/undergraduate-research/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/categories/undergraduate-research/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

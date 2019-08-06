@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Kim | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/sophie-kim/</link>
+      <atom:link href="https://jforsyth.github.io/authors/sophie-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 11 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Sophie Kim</title>
+      <link>https://jforsyth.github.io/authors/sophie-kim/</link>
+    </image>
+    
+    <item>
+      <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
+      <link>https://jforsyth.github.io/publication/idsa/</link>
+      <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/idsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Design Course for Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

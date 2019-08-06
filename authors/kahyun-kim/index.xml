@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kahyun Kim | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/kahyun-kim/</link>
+      <atom:link href="https://jforsyth.github.io/authors/kahyun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kahyun Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Kahyun Kim</title>
+      <link>https://jforsyth.github.io/authors/kahyun-kim/</link>
+    </image>
+    
+    <item>
+      <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/puc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/puc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/iswc-2011/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/iswc-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

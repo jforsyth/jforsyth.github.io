@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Martin | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/tom-martin/</link>
+      <atom:link href="https://jforsyth.github.io/authors/tom-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Tom Martin</title>
+      <link>https://jforsyth.github.io/authors/tom-martin/</link>
+    </image>
+    
+    <item>
+      <title>The design of smart garments for motion capture and activity classification</title>
+      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of GPS-based Warning System for Roadside Workers</title>
+      <link>https://jforsyth.github.io/publication/iccv/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Behavioral Information from Electronic Storyboards</title>
+      <link>https://jforsyth.github.io/publication/eics/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/eics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Pedagogy for Pervasive Computing Design Processes: An Evaluative Analysis</title>
+      <link>https://jforsyth.github.io/publication/asee-ubi/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee-ubi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/puc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/puc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
+      <link>https://jforsyth.github.io/publication/idsa/</link>
+      <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/idsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning</title>
+      <link>https://jforsyth.github.io/publication/tase-journal/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/tase-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for Interdisciplinary Design of Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ipjcc/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ipjcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Design Course for Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
+      <link>https://jforsyth.github.io/publication/iswc-2011/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/iswc-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers</title>
+      <link>https://jforsyth.github.io/publication/percom/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/percom/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

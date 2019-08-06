@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ron Kemnitzer | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/ron-kemnitzer/</link>
+      <atom:link href="https://jforsyth.github.io/authors/ron-kemnitzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ron Kemnitzer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Ron Kemnitzer</title>
+      <link>https://jforsyth.github.io/authors/ron-kemnitzer/</link>
+    </image>
+    
+    <item>
+      <title>An Interdisciplinary Design Course for Pervasive Computing</title>
+      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

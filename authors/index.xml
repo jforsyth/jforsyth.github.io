@@ -5,7 +5,7 @@
     <link>https://jforsyth.github.io/authors/</link>
       <atom:link href="https://jforsyth.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,15 +13,357 @@
     </image>
     
     <item>
+      <title>Jason Forsyth</title>
+      <link>https://jforsyth.github.io/authors/jason-forsyth/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jason-forsyth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Stewart</title>
+      <link>https://jforsyth.github.io/authors/michael-stewart/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/michael-stewart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zamwua Nasrawt</title>
+      <link>https://jforsyth.github.io/authors/zamwua-nasrawt/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/zamwua-nasrawt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Callie Miller</title>
+      <link>https://jforsyth.github.io/authors/callie-miller/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/callie-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacquelyn Nagel</title>
+      <link>https://jforsyth.github.io/authors/jacquelyn-nagel/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jacquelyn-nagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Nagel</title>
+      <link>https://jforsyth.github.io/authors/robert-nagel/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/robert-nagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleanor Leung</title>
+      <link>https://jforsyth.github.io/authors/eleanor-leung/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/eleanor-leung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Kearns</title>
+      <link>https://jforsyth.github.io/authors/james-kearns/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/james-kearns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Moscola</title>
+      <link>https://jforsyth.github.io/authors/james-moscola/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/james-moscola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kala Meah</title>
+      <link>https://jforsyth.github.io/authors/kala-meah/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/kala-meah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeff Will</title>
+      <link>https://jforsyth.github.io/authors/jeff-will/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jeff-will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Budnik</title>
+      <link>https://jforsyth.github.io/authors/mark-budnik/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/mark-budnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randi Shedlosky</title>
+      <link>https://jforsyth.github.io/authors/randi-shedlosky/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/randi-shedlosky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cara Sperbeck</title>
+      <link>https://jforsyth.github.io/authors/cara-sperbeck/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/cara-sperbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Korpela</title>
+      <link>https://jforsyth.github.io/authors/christopher-korpela/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/christopher-korpela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Jones</title>
+      <link>https://jforsyth.github.io/authors/matthew-jones/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/matthew-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Hesson</title>
+      <link>https://jforsyth.github.io/authors/nicole-hesson/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/nicole-hesson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Lynn</title>
+      <link>https://jforsyth.github.io/authors/patrick-lynn/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/patrick-lynn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Wilkerson</title>
+      <link>https://jforsyth.github.io/authors/stephen-wilkerson/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/stephen-wilkerson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Dennis</title>
+      <link>https://jforsyth.github.io/authors/jacob-dennis/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jacob-dennis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristen Hines</title>
+      <link>https://jforsyth.github.io/authors/kristen-hines/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/kristen-hines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Jones</title>
+      <link>https://jforsyth.github.io/authors/mark-jones/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/mark-jones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabih Younes</title>
+      <link>https://jforsyth.github.io/authors/rabih-younes/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/rabih-younes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Martin</title>
+      <link>https://jforsyth.github.io/authors/tom-martin/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/tom-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darrell Bowman</title>
+      <link>https://jforsyth.github.io/authors/darrell-bowman/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/darrell-bowman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jamie Simmons</title>
+      <link>https://jforsyth.github.io/authors/jamie-simmons/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jamie-simmons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liesl Baum</title>
+      <link>https://jforsyth.github.io/authors/liesl-baum/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/liesl-baum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ed Dorsa</title>
+      <link>https://jforsyth.github.io/authors/ed-dorsa/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/ed-dorsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eloise Coupey</title>
+      <link>https://jforsyth.github.io/authors/eloise-coupey/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/eloise-coupey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Forsyt</title>
+      <link>https://jforsyth.github.io/authors/jason-forsyt/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/jason-forsyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kahun Kim</title>
+      <link>https://jforsyth.github.io/authors/kahun-kim/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/kahun-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisa McNair</title>
+      <link>https://jforsyth.github.io/authors/lisa-mcnair/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/lisa-mcnair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Knapp</title>
+      <link>https://jforsyth.github.io/authors/benjamin-knapp/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/benjamin-knapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake Sawyer</title>
+      <link>https://jforsyth.github.io/authors/blake-sawyer/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/blake-sawyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brennon Bortz</title>
+      <link>https://jforsyth.github.io/authors/brennon-bortz/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/brennon-bortz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dane Webster</title>
+      <link>https://jforsyth.github.io/authors/dane-webster/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/dane-webster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ico Bukvic</title>
+      <link>https://jforsyth.github.io/authors/ico-bukvic/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/ico-bukvic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taylor O&#39;Connor</title>
+      <link>https://jforsyth.github.io/authors/taylor-oconnor/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/taylor-oconnor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teri Finn</title>
+      <link>https://jforsyth.github.io/authors/teri-finn/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/teri-finn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kahyun Kim</title>
+      <link>https://jforsyth.github.io/authors/kahyun-kim/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/kahyun-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sophie Kim</title>
+      <link>https://jforsyth.github.io/authors/sophie-kim/</link>
+      <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/sophie-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deborah Young-Corbett</title>
+      <link>https://jforsyth.github.io/authors/deborah-young-corbett/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/deborah-young-corbett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ron Kemnitzer</title>
+      <link>https://jforsyth.github.io/authors/ron-kemnitzer/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/authors/ron-kemnitzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://jforsyth.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jforsyth.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Jason Forsyth is an Assistant Professor of Engineering at James Madison University. He received his PhD from Virginia Tech in May 2015. His major research interests are in wearable/pervasive computing and engineering education. Previously he was an Assistant Professor of Electrical and Computer Engineering at York College of Pennsylvania from 2015 – 2018.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to Jason Forsyth’s personal website!&lt;/p&gt;
 
-&lt;p&gt;His wearable computing work develops safety systems that provide continuous monitoring and sensing to protect human life. Previous work examined the role of wearable pulse oximetry in protecting construction workers from carbon monoxide poisoning and developing a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes. His current research interests focus on on-body human activity recognition and interactive machine learning for physical therapy patients and practitioners to increase exercise adherence and clinical evaluation.&lt;/p&gt;
-
-&lt;p&gt;Jason is the recipient of the 2012 Best Paper Award from IEEE Transactions on Automation Science and Engineering for working on wearable monitoring of carbon monoxide poisoning in construction workers.&lt;/p&gt;
+&lt;p&gt;I can also be found on &lt;a href=&#34;https://scholar.google.com/citations?user=EY6SBHcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;. Feel free to contact me at forsy2jb {&lt;em&gt;at&lt;/em&gt;} jmu.edu. My full CV can be found &lt;a href=&#34;pdf/Jason-Forsyth-CV.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; (Current as of 7/17/2019). Feel free to browse the pages below and find my recent &lt;a href=&#34;#posts&#34;&gt;news&lt;/a&gt;, biography, current projects, and &lt;a href=&#34;#publications&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

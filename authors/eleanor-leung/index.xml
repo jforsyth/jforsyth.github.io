@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eleanor Leung | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/eleanor-leung/</link>
+      <atom:link href="https://jforsyth.github.io/authors/eleanor-leung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eleanor Leung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Eleanor Leung</title>
+      <link>https://jforsyth.github.io/authors/eleanor-leung/</link>
+    </image>
+    
+    <item>
+      <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
+      <link>https://jforsyth.github.io/publication/asee2019ycp/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2019ycp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
