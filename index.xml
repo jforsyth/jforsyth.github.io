@@ -5,12 +5,123 @@
     <link>https://jforsyth.github.io/</link>
       <atom:link href="https://jforsyth.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>https://jforsyth.github.io/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://jforsyth.github.io/teaching/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/teaching/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Engineering Courses Taught at James Madison University&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Title&lt;/th&gt;
+&lt;th&gt;Semester Offered&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ENGR 112: Engineering Decisions&lt;/td&gt;
+&lt;td&gt;Spring 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 231: Engineering Design I&lt;/td&gt;
+&lt;td&gt;Fall 2018&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 313: Circuits and Instrumentation&lt;/td&gt;
+&lt;td&gt;Fall 2018, Spring 2019, Fall 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 498: Design for the Internet of Things&lt;/td&gt;
+&lt;td&gt;Fall 2019&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;ENGR 112 – Engineering Decisions: Freshman engineering course focused on human-centered design, engineering decision making, and project management through a community-based project. Current applications use a tethered weather balloon to monitor environment conditions and create value for a local community stakeholder. Additional skills learned include MATLAB, SolidWorks, and Arduino with sensors and actuators.&lt;/p&gt;
+
+&lt;p&gt;ENGR 231 – Engineering Design: Sophomore engineering course teaching the fundamentals of engineering design process including stakeholder identification, design objectives, specifications, constraints, and preliminary design. Students develop a human-powered vehicle for persons with disabilities. End of the semester results in a preliminary design and the project is continued into the Spring. Additional topics covered include teaming, project management, static analysis, and machining.&lt;/p&gt;
+
+&lt;p&gt;ENGR 313 – Circuits and Instrumentation: Junior/senior course covering broad topics in DC/AC circuits and power analysis. Course prepares students for capstone work involving electronics and for the FE exam. Topics covered include: resistive circuit analysis, transistors, operational amplifiers, first-order circuits, second-order circuits, analog and digital filters, and phasor space analysis. Lecture topics are reinforced via weekly lab sessions and include two design-build projects throughout the semester.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Engineering Courses Taught at York College of Pennsylvania&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Course Title&lt;/th&gt;
+&lt;th&gt;Semester Offered&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;FYS 100 - Creative Computing&lt;/td&gt;
+&lt;td&gt;Fall 2016, 2017 (co-taught with David Hovemeyer)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;EGR 110 - Engineering Practice and Design Studio&lt;/td&gt;
+&lt;td&gt;Fall 2015, 2016&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 220 - Design and Analysis of Digital Circuits&lt;/td&gt;
+&lt;td&gt;Fall 2015, 2016, 2017&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 260 - Fundamentals of Computer Engineering&lt;/td&gt;
+&lt;td&gt;Spring 2016&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 335 - Discrete Math with Applications&lt;/td&gt;
+&lt;td&gt;Summer 2016, 2017&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 370 - Microprocessor System Design&lt;/td&gt;
+&lt;td&gt;Summer 2016, 2017, 2018&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 400 - Capstone Design I&lt;/td&gt;
+&lt;td&gt;Summer 2016, 2017, 2018&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ECE 420 - Embedded System Design&lt;/td&gt;
+&lt;td&gt;Summer 2016, 2017, 2018&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;FYS 100 – Creative Computing: First year seminar engages freshman students in employing computing systems to develop artistic and creative applications. Students utilize Processing, Arduino, and Raspberry Pi computers to create interactive installations as a final project. Hands-on labs, contemporary readings, and class discussions center around the broader them of “Can computers create art?”&lt;/p&gt;
+
+&lt;p&gt;EGR 100 – Engineering Practice and Design Studio: Introductory engineering course for freshman students shared between the Mechanical and Electrical and Computer Engineering programs. Students engage in hands-on learning with basic electronics and computing systems to develop design and debugging skills. Final project uses a small robotic platform and an Arduino to create a line-following robot.&lt;/p&gt;
+
+&lt;p&gt;ECE 220 – Design and Analysis of Digital Circuits: Sophomore course introducing electrical and computer engineering students to digital circuit design including combinational and sequential circuits. Associated lab section provides instruction in circuit design using discrete ICs as well as projects in Verilog HDL.&lt;/p&gt;
+
+&lt;p&gt;ECE 370 – Microprocessor System Design: Junior combined lecture/lab course providing in-depth instruction on microprocessor architecture, organization, and associated peripherals. Students utilize Silicon Labs ARM processor and C++ to design energy efficient applications using a variety of external sensors. Topics on PCB design, embedded tool chains, and processor initialization are also covered.&lt;/p&gt;
+
+&lt;p&gt;ECE 400 – Capstone Design I: Multidisciplinary design experience for electrical, computer, and mechanical engineers. Projects provide a substantial design, build, and test experience over a one year period. Recent projects have focused on community service and include development of an automated greenhouse for a local school, prototype medical devices, and assistive technologies for persons with mental and physical disabilities.&lt;/p&gt;
+
+&lt;p&gt;ECE 420 – Embedded System Design: Culminating course for electrical and computer engineering students combining all aspects of microprocessor systems. Semester long project focuses on development and optimization of wearable pedometer system. Each student must conduct research towards a selected optimization goal of energy efficiency, step count accuracy, or physical size minimization.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>EduGit: Toward a Platform for Publishing and Adopting Course Content</title>
@@ -67,6 +178,56 @@ Entrepreneurship and Engineering Innovation and division. I’m looking forward 
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jforsyth.github.io/publication/icrest/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Computing for Physical Therapy</title>
+      <link>https://jforsyth.github.io/project/physical-therapy/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/project/physical-therapy/</guid>
+      <description>&lt;p&gt;The project will develop a novel wearable computing system for use in physical therapy and rehabilitation
+exercises. Often patients undergoing physical therapy are prescribed a set of stretches and exercises to
+strengthen an injured muscle group. While outside of the doctor’s office, the physical therapist cannot
+observe if the activities are being performed correctly or if at all. Wearable computing solutions have
+been developed that will allow human activities to be recognized. However, current approaches are
+limited to specific arm and leg motions and not the broader set of activities that would be required in a
+general tool usable by medical practitioners. The project would leverage existing machine learning and
+human-computer interaction techniques to develop a custom wearable computing system tailored to
+rehabilitation exercises of a particular patient. This system would create positive patient outcomes by
+providing feedback to the patient and the physical therapist about the quantity and quality of therapy
+activities performed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;https://jforsyth.github.io/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service Learning</title>
+      <link>https://jforsyth.github.io/project/service-learning/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/project/service-learning/</guid>
+      <description>&lt;p&gt;Because pervasive computing systems deal intimately with human needs and interactions, they must be envisioned and developed by interdisciplinary teams that not only understand the technological challenges, but the human ones as well. Crucial to this design process is ensuring these teams are effective and well-functioning. Specifically, it is important that all participants understand the abilities of team members from other disciplines. In earlier work I examined how prototyping exercises helped clarify project goals and establish a disciplinary rapport within teams. More recently I have studied the motivations of capstone design teams. In particular, we have compared the attitudes and experiences of students working on traditional, single discipline projects, such as design of off-road and race cars, as compared to students working in a more interdisciplinary setting designing a smart greenhouse for a local elementary school and assistive technologies for persons with mental and physical disabilities. Looking at these two populations, we found that students who participated in the more interdisciplinary and service-oriented projects felt more personal satisfaction in their engineering work than their peers on the single discipline projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;https://jforsyth.github.io/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;https://jforsyth.github.io/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;https://jforsyth.github.io/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Developing an Automated Greenhouse at Alexander D. Goode Elementary School to Serve as a Living Laboratory for Science Education”, $9,746 over 12 months from the York County Community Foundation. Proposal supports research and capital expenses related to the automated greenhouse capstone project. Awarded 1/1/2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson; “Addressing Economic and Educational Disadvantages in York City through Engineering Design Projects”, $17,000 over 12 months from the Office of the President. Proposal supports research investigating the impact of service-based multidisciplinary projects on engineering students, faculty, and community partners. Also, provides material support for capstone projects to develop an automated greenhouse, assistive technologies, and targeted curricula for K-8 students. Awarded: 3/24/2016&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -134,6 +295,30 @@ Entrepreneurship and Engineering Innovation and division. I’m looking forward 
     </item>
     
     <item>
+      <title>Pervasive Computing Prototyping Tools</title>
+      <link>https://jforsyth.github.io/project/pervasive-computing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/project/pervasive-computing/</guid>
+      <description>&lt;p&gt;Interdisciplinary design tools facilitate collaboration between engineering and design practitioners to ensure that pervasive products and services are aesthetically pleasing and technologically feasible. From our research with interdisciplinary teams, we found that a shared vocabulary and understanding of design constraints is critical for effective interdisciplinary collaboration. This requires prototyping tools to be accessible across disciplines but sufficiently powerful to develop a working system. Using our technique of electronic storyboards, design teams can electronically “sketch” how a pervasive system should behave and automatically synthesize behavioral descriptions of that system as source code, textual descriptions, and state charts. Descriptions are generated by analyzing storyboard layout, user-applied annotations, and natural language processing of text in the storyboard. During synthesis the electronic storyboard will query the design team to resolve missing or ambiguous information.&lt;/p&gt;
+
+&lt;p&gt;The descriptions produced by the electronic storyboard, and the tool queries during synthesis, serve as a reflection point for teams to understand if they have properly described their prototype. Storyboard synthesis is quick, taking less than one minute, and enables teams to focus on what a device “should” do, rather than how it is implemented. In a time constrained environment, rapid prototyping tools like electronic storyboards can facilitate better design outcomes by evaluating more prototypes over time. Initial results show this tool is usable by interdisciplinary teams, helps teams evaluate their design, and aids participants in understanding computational properties of the storyboarded systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;https://jforsyth.github.io/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;https://jforsyth.github.io/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, “Using Electronic Storyboards to Support Interdisciplinary Design of Pervasive Computing Systems”, Poster Presentation for the Sixth Annual Ph.D. Forum on Pervasive Computing and Communications (PerCom), San Diego, March 20th, 2013&lt;/p&gt;
+
+&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;https://jforsyth.github.io/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;
+Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”, National Science Foundation. Award Date: 4/1/2015. Amount: $50,000. &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward?AWD_ID=1535818&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Feasibility of GPS-based Warning System for Roadside Workers</title>
       <link>https://jforsyth.github.io/publication/iccv/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
@@ -147,6 +332,23 @@ Entrepreneurship and Engineering Innovation and division. I’m looking forward 
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://jforsyth.github.io/publication/fablab/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Safety Systems</title>
+      <link>https://jforsyth.github.io/project/wearable-safety/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/project/wearable-safety/</guid>
+      <description>&lt;p&gt;Wearable safety devices provide continuous monitoring and sensing to protect human life. Safety-critical pervasive systems are challenging to develop as these systems must be easy to use while providing the user with reliable and timely warnings. Examining the hazards faced by construction workers, many are at risk of carbon monoxide poisoning when working with gasoline powered tools in or around enclosed spaces. To address this problem, we integrated a pulse oximetry sensor into the headband of a typical construction helmet to non-invasively measure blood gas concentrations. Based upon our reliability analysis the integrated sensor can warn the worker of impending carbon monoxide poisoning with 99% reliability. This work was the first to address reliability of wearable pulse oximetry during motion and has been recognized by IEEE Transactions on Automation Science and Engineering as the best paper of 2012. Building on this work, we have developed a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;https://jforsyth.github.io/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;https://jforsyth.github.io/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). &lt;a href=&#34;https://jforsyth.github.io/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>

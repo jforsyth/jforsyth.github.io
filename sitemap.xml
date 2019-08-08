@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jforsyth.github.io/teaching/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jforsyth.github.io/publication_types/1/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -21,12 +32,6 @@
   
   <url>
     <loc>https://jforsyth.github.io/authors/jason-forsyth/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jforsyth.github.io/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -148,6 +153,58 @@
   <url>
     <loc>https://jforsyth.github.io/publication/icrest/</loc>
     <lastmod>2019-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/project/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/project/physical-therapy/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/undergraduate-research/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/wearable-computing/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/project/service-learning/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/capstone/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/engineering-education/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/service-learning/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -276,6 +333,29 @@
   </url>
   
   <url>
+    <loc>https://jforsyth.github.io/project/pervasive-computing/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/interdisciplinary-design/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/pervasive-computing/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/tags/ubiquitous-computing/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jforsyth.github.io/authors/darrell-bowman/</loc>
     <lastmod>2014-11-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -301,6 +381,11 @@
     <loc>https://jforsyth.github.io/authors/liesl-baum/</loc>
     <lastmod>2014-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jforsyth.github.io/project/wearable-safety/</loc>
+    <lastmod>2014-10-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -467,11 +552,6 @@
   
   <url>
     <loc>https://jforsyth.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jforsyth.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

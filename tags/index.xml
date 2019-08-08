@@ -5,12 +5,76 @@
     <link>https://jforsyth.github.io/tags/</link>
       <atom:link href="https://jforsyth.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jforsyth.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://jforsyth.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>undergraduate research</title>
+      <link>https://jforsyth.github.io/tags/undergraduate-research/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/undergraduate-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wearable computing</title>
+      <link>https://jforsyth.github.io/tags/wearable-computing/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/wearable-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>capstone</title>
+      <link>https://jforsyth.github.io/tags/capstone/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/capstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>engineering education</title>
+      <link>https://jforsyth.github.io/tags/engineering-education/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/engineering-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service learning</title>
+      <link>https://jforsyth.github.io/tags/service-learning/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/service-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interdisciplinary design</title>
+      <link>https://jforsyth.github.io/tags/interdisciplinary-design/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/interdisciplinary-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pervasive computing</title>
+      <link>https://jforsyth.github.io/tags/pervasive-computing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/pervasive-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubiquitous computing</title>
+      <link>https://jforsyth.github.io/tags/ubiquitous-computing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/tags/ubiquitous-computing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
