@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shraddha Joshi | Jason Forsyth&#39;s Personal Website</title>
+    <link>https://jforsyth.github.io/authors/shraddha-joshi/</link>
+      <atom:link href="https://jforsyth.github.io/authors/shraddha-joshi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shraddha Joshi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <title>Shraddha Joshi</title>
+      <link>https://jforsyth.github.io/authors/shraddha-joshi/</link>
+    </image>
+    
+    <item>
+      <title>Engagement in Practice: Engaging with the Community One Bike at a Time</title>
+      <link>https://jforsyth.github.io/publication/asee2019jmu/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://jforsyth.github.io/publication/asee2019jmu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
