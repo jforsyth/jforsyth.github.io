@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ico Bukvic | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/ico-bukvic/</link>
-      <atom:link href="https://jforsyth.github.io/authors/ico-bukvic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/ico-bukvic/</link>
+      <atom:link href="http://jasonforsyth.net/authors/ico-bukvic/index.xml" rel="self" type="application/rss+xml" />
     <description>Ico Bukvic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 06 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Ico Bukvic</title>
-      <link>https://jforsyth.github.io/authors/ico-bukvic/</link>
+      <link>http://jasonforsyth.net/authors/ico-bukvic/</link>
     </image>
     
     <item>
       <title>Form, Function and Performances in a Musical Instrument MAKErs Camp</title>
-      <link>https://jforsyth.github.io/publication/sigcse/</link>
+      <link>http://jasonforsyth.net/publication/sigcse/</link>
       <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/sigcse/</guid>
+      <guid>http://jasonforsyth.net/publication/sigcse/</guid>
       <description></description>
     </item>
     

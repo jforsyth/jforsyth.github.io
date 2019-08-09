@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/categories/</link>
-      <atom:link href="https://jforsyth.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/categories/</link>
+      <atom:link href="http://jasonforsyth.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://jforsyth.github.io/categories/</link>
+      <link>http://jasonforsyth.net/categories/</link>
     </image>
     
     <item>
       <title>ASEE</title>
-      <link>https://jforsyth.github.io/categories/asee/</link>
+      <link>http://jasonforsyth.net/categories/asee/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/categories/asee/</guid>
+      <guid>http://jasonforsyth.net/categories/asee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JMU</title>
-      <link>https://jforsyth.github.io/categories/jmu/</link>
+      <link>http://jasonforsyth.net/categories/jmu/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/categories/jmu/</guid>
+      <guid>http://jasonforsyth.net/categories/jmu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Undergraduate Research</title>
-      <link>https://jforsyth.github.io/categories/undergraduate-research/</link>
+      <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/categories/undergraduate-research/</guid>
+      <guid>http://jasonforsyth.net/categories/undergraduate-research/</guid>
       <description></description>
     </item>
     

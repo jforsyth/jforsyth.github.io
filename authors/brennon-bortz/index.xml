@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brennon Bortz | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/brennon-bortz/</link>
-      <atom:link href="https://jforsyth.github.io/authors/brennon-bortz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/brennon-bortz/</link>
+      <atom:link href="http://jasonforsyth.net/authors/brennon-bortz/index.xml" rel="self" type="application/rss+xml" />
     <description>Brennon Bortz</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 06 Mar 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Brennon Bortz</title>
-      <link>https://jforsyth.github.io/authors/brennon-bortz/</link>
+      <link>http://jasonforsyth.net/authors/brennon-bortz/</link>
     </image>
     
     <item>
       <title>Form, Function and Performances in a Musical Instrument MAKErs Camp</title>
-      <link>https://jforsyth.github.io/publication/sigcse/</link>
+      <link>http://jasonforsyth.net/publication/sigcse/</link>
       <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/sigcse/</guid>
+      <guid>http://jasonforsyth.net/publication/sigcse/</guid>
       <description></description>
     </item>
     

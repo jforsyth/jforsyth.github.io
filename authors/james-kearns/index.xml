@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James Kearns | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/james-kearns/</link>
-      <atom:link href="https://jforsyth.github.io/authors/james-kearns/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/james-kearns/</link>
+      <atom:link href="http://jasonforsyth.net/authors/james-kearns/index.xml" rel="self" type="application/rss+xml" />
     <description>James Kearns</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>James Kearns</title>
-      <link>https://jforsyth.github.io/authors/james-kearns/</link>
+      <link>http://jasonforsyth.net/authors/james-kearns/</link>
     </image>
     
     <item>
       <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
-      <link>https://jforsyth.github.io/publication/asee2019ycp/</link>
+      <link>http://jasonforsyth.net/publication/asee2019ycp/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2019ycp/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2019ycp/</guid>
       <description></description>
     </item>
     

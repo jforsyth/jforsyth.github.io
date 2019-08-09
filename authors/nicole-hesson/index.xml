@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Hesson | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/nicole-hesson/</link>
-      <atom:link href="https://jforsyth.github.io/authors/nicole-hesson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/nicole-hesson/</link>
+      <atom:link href="http://jasonforsyth.net/authors/nicole-hesson/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicole Hesson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Nicole Hesson</title>
-      <link>https://jforsyth.github.io/authors/nicole-hesson/</link>
+      <link>http://jasonforsyth.net/authors/nicole-hesson/</link>
     </image>
     
     <item>
       <title>Benefits and Challenges of Transitioning to Community Service Multidisciplinary Capstone Projects</title>
-      <link>https://jforsyth.github.io/publication/greenhouse/</link>
+      <link>http://jasonforsyth.net/publication/greenhouse/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/greenhouse/</guid>
+      <guid>http://jasonforsyth.net/publication/greenhouse/</guid>
       <description></description>
     </item>
     

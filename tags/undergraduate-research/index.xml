@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>undergraduate research | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/tags/undergraduate-research/</link>
-      <atom:link href="https://jforsyth.github.io/tags/undergraduate-research/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/tags/undergraduate-research/</link>
+      <atom:link href="http://jasonforsyth.net/tags/undergraduate-research/index.xml" rel="self" type="application/rss+xml" />
     <description>undergraduate research</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>undergraduate research</title>
-      <link>https://jforsyth.github.io/tags/undergraduate-research/</link>
+      <link>http://jasonforsyth.net/tags/undergraduate-research/</link>
     </image>
     
     <item>
       <title>Wearable Computing for Physical Therapy</title>
-      <link>https://jforsyth.github.io/project/physical-therapy/</link>
+      <link>http://jasonforsyth.net/project/physical-therapy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/physical-therapy/</guid>
+      <guid>http://jasonforsyth.net/project/physical-therapy/</guid>
       <description>&lt;p&gt;The project will develop a novel wearable computing system for use in physical therapy and rehabilitation
 exercises. Often patients undergoing physical therapy are prescribed a set of stretches and exercises to
 strengthen an injured muscle group. While outside of the doctor’s office, the physical therapist cannot
@@ -31,7 +31,7 @@ activities performed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;https://jforsyth.github.io/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 

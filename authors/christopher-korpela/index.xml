@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Korpela | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/christopher-korpela/</link>
-      <atom:link href="https://jforsyth.github.io/authors/christopher-korpela/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/christopher-korpela/</link>
+      <atom:link href="http://jasonforsyth.net/authors/christopher-korpela/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Korpela</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Christopher Korpela</title>
-      <link>https://jforsyth.github.io/authors/christopher-korpela/</link>
+      <link>http://jasonforsyth.net/authors/christopher-korpela/</link>
     </image>
     
     <item>
       <title>Project Based Learning Using the Robotic Operating System (ROS) for Undergraduate Research Applications</title>
-      <link>https://jforsyth.github.io/publication/ros-ycp/</link>
+      <link>http://jasonforsyth.net/publication/ros-ycp/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ros-ycp/</guid>
+      <guid>http://jasonforsyth.net/publication/ros-ycp/</guid>
       <description></description>
     </item>
     

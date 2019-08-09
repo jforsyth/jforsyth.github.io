@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ed Dorsa | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/ed-dorsa/</link>
-      <atom:link href="https://jforsyth.github.io/authors/ed-dorsa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/ed-dorsa/</link>
+      <atom:link href="http://jasonforsyth.net/authors/ed-dorsa/index.xml" rel="self" type="application/rss+xml" />
     <description>Ed Dorsa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 11 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Ed Dorsa</title>
-      <link>https://jforsyth.github.io/authors/ed-dorsa/</link>
+      <link>http://jasonforsyth.net/authors/ed-dorsa/</link>
     </image>
     
     <item>
       <title>Interdisciplinary Pedagogy for Pervasive Computing Design Processes: An Evaluative Analysis</title>
-      <link>https://jforsyth.github.io/publication/asee-ubi/</link>
+      <link>http://jasonforsyth.net/publication/asee-ubi/</link>
       <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee-ubi/</guid>
+      <guid>http://jasonforsyth.net/publication/asee-ubi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
-      <link>https://jforsyth.github.io/publication/puc/</link>
+      <link>http://jasonforsyth.net/publication/puc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/puc/</guid>
+      <guid>http://jasonforsyth.net/publication/puc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
-      <link>https://jforsyth.github.io/publication/idsa/</link>
+      <link>http://jasonforsyth.net/publication/idsa/</link>
       <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/idsa/</guid>
+      <guid>http://jasonforsyth.net/publication/idsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning</title>
-      <link>https://jforsyth.github.io/publication/tase-journal/</link>
+      <link>http://jasonforsyth.net/publication/tase-journal/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/tase-journal/</guid>
+      <guid>http://jasonforsyth.net/publication/tase-journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Interdisciplinary Design Course for Pervasive Computing</title>
-      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <link>http://jasonforsyth.net/publication/ieee-per/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <guid>http://jasonforsyth.net/publication/ieee-per/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
-      <link>https://jforsyth.github.io/publication/iswc-2011/</link>
+      <link>http://jasonforsyth.net/publication/iswc-2011/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/iswc-2011/</guid>
+      <guid>http://jasonforsyth.net/publication/iswc-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers</title>
-      <link>https://jforsyth.github.io/publication/percom/</link>
+      <link>http://jasonforsyth.net/publication/percom/</link>
       <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/percom/</guid>
+      <guid>http://jasonforsyth.net/publication/percom/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jacob Dennis | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/jacob-dennis/</link>
-      <atom:link href="https://jforsyth.github.io/authors/jacob-dennis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/jacob-dennis/</link>
+      <atom:link href="http://jasonforsyth.net/authors/jacob-dennis/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Dennis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jacob Dennis</title>
-      <link>https://jforsyth.github.io/authors/jacob-dennis/</link>
+      <link>http://jasonforsyth.net/authors/jacob-dennis/</link>
     </image>
     
     <item>
       <title>The design of smart garments for motion capture and activity classification</title>
-      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <link>http://jasonforsyth.net/publication/wearablesbook/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <guid>http://jasonforsyth.net/publication/wearablesbook/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kala Meah | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/kala-meah/</link>
-      <atom:link href="https://jforsyth.github.io/authors/kala-meah/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/kala-meah/</link>
+      <atom:link href="http://jasonforsyth.net/authors/kala-meah/index.xml" rel="self" type="application/rss+xml" />
     <description>Kala Meah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Kala Meah</title>
-      <link>https://jforsyth.github.io/authors/kala-meah/</link>
+      <link>http://jasonforsyth.net/authors/kala-meah/</link>
     </image>
     
     <item>
       <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
-      <link>https://jforsyth.github.io/publication/asee2019ycp/</link>
+      <link>http://jasonforsyth.net/publication/asee2019ycp/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2019ycp/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2019ycp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Smart Sensor Network for an Automated Urban Greenhouse</title>
-      <link>https://jforsyth.github.io/publication/icrest/</link>
+      <link>http://jasonforsyth.net/publication/icrest/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/icrest/</guid>
+      <guid>http://jasonforsyth.net/publication/icrest/</guid>
       <description></description>
     </item>
     

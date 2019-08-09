@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>engineering education | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/tags/engineering-education/</link>
-      <atom:link href="https://jforsyth.github.io/tags/engineering-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/tags/engineering-education/</link>
+      <atom:link href="http://jasonforsyth.net/tags/engineering-education/index.xml" rel="self" type="application/rss+xml" />
     <description>engineering education</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>engineering education</title>
-      <link>https://jforsyth.github.io/tags/engineering-education/</link>
+      <link>http://jasonforsyth.net/tags/engineering-education/</link>
     </image>
     
     <item>
       <title>Service Learning</title>
-      <link>https://jforsyth.github.io/project/service-learning/</link>
+      <link>http://jasonforsyth.net/project/service-learning/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/service-learning/</guid>
+      <guid>http://jasonforsyth.net/project/service-learning/</guid>
       <description>&lt;p&gt;Because pervasive computing systems deal intimately with human needs and interactions, they must be envisioned and developed by interdisciplinary teams that not only understand the technological challenges, but the human ones as well. Crucial to this design process is ensuring these teams are effective and well-functioning. Specifically, it is important that all participants understand the abilities of team members from other disciplines. In earlier work I examined how prototyping exercises helped clarify project goals and establish a disciplinary rapport within teams. More recently I have studied the motivations of capstone design teams. In particular, we have compared the attitudes and experiences of students working on traditional, single discipline projects, such as design of off-road and race cars, as compared to students working in a more interdisciplinary setting designing a smart greenhouse for a local elementary school and assistive technologies for persons with mental and physical disabilities. Looking at these two populations, we found that students who participated in the more interdisciplinary and service-oriented projects felt more personal satisfaction in their engineering work than their peers on the single discipline projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;https://jforsyth.github.io/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;http://jasonforsyth.net/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;https://jforsyth.github.io/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;http://jasonforsyth.net/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;https://jforsyth.github.io/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;http://jasonforsyth.net/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 

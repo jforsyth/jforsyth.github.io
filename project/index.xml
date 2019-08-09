@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/project/</link>
-      <atom:link href="https://jforsyth.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/project/</link>
+      <atom:link href="http://jasonforsyth.net/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://jforsyth.github.io/project/</link>
+      <link>http://jasonforsyth.net/project/</link>
     </image>
     
     <item>
       <title>Wearable Computing for Physical Therapy</title>
-      <link>https://jforsyth.github.io/project/physical-therapy/</link>
+      <link>http://jasonforsyth.net/project/physical-therapy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/physical-therapy/</guid>
+      <guid>http://jasonforsyth.net/project/physical-therapy/</guid>
       <description>&lt;p&gt;The project will develop a novel wearable computing system for use in physical therapy and rehabilitation
 exercises. Often patients undergoing physical therapy are prescribed a set of stretches and exercises to
 strengthen an injured muscle group. While outside of the doctor’s office, the physical therapist cannot
@@ -31,7 +31,7 @@ activities performed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;https://jforsyth.github.io/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 
@@ -41,18 +41,18 @@ activities performed.&lt;/p&gt;
     
     <item>
       <title>Service Learning</title>
-      <link>https://jforsyth.github.io/project/service-learning/</link>
+      <link>http://jasonforsyth.net/project/service-learning/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/service-learning/</guid>
+      <guid>http://jasonforsyth.net/project/service-learning/</guid>
       <description>&lt;p&gt;Because pervasive computing systems deal intimately with human needs and interactions, they must be envisioned and developed by interdisciplinary teams that not only understand the technological challenges, but the human ones as well. Crucial to this design process is ensuring these teams are effective and well-functioning. Specifically, it is important that all participants understand the abilities of team members from other disciplines. In earlier work I examined how prototyping exercises helped clarify project goals and establish a disciplinary rapport within teams. More recently I have studied the motivations of capstone design teams. In particular, we have compared the attitudes and experiences of students working on traditional, single discipline projects, such as design of off-road and race cars, as compared to students working in a more interdisciplinary setting designing a smart greenhouse for a local elementary school and assistive technologies for persons with mental and physical disabilities. Looking at these two populations, we found that students who participated in the more interdisciplinary and service-oriented projects felt more personal satisfaction in their engineering work than their peers on the single discipline projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;https://jforsyth.github.io/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;http://jasonforsyth.net/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;https://jforsyth.github.io/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;http://jasonforsyth.net/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;https://jforsyth.github.io/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;http://jasonforsyth.net/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 
@@ -64,22 +64,22 @@ activities performed.&lt;/p&gt;
     
     <item>
       <title>Pervasive Computing Prototyping Tools</title>
-      <link>https://jforsyth.github.io/project/pervasive-computing/</link>
+      <link>http://jasonforsyth.net/project/pervasive-computing/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/pervasive-computing/</guid>
+      <guid>http://jasonforsyth.net/project/pervasive-computing/</guid>
       <description>&lt;p&gt;Interdisciplinary design tools facilitate collaboration between engineering and design practitioners to ensure that pervasive products and services are aesthetically pleasing and technologically feasible. From our research with interdisciplinary teams, we found that a shared vocabulary and understanding of design constraints is critical for effective interdisciplinary collaboration. This requires prototyping tools to be accessible across disciplines but sufficiently powerful to develop a working system. Using our technique of electronic storyboards, design teams can electronically “sketch” how a pervasive system should behave and automatically synthesize behavioral descriptions of that system as source code, textual descriptions, and state charts. Descriptions are generated by analyzing storyboard layout, user-applied annotations, and natural language processing of text in the storyboard. During synthesis the electronic storyboard will query the design team to resolve missing or ambiguous information.&lt;/p&gt;
 
 &lt;p&gt;The descriptions produced by the electronic storyboard, and the tool queries during synthesis, serve as a reflection point for teams to understand if they have properly described their prototype. Storyboard synthesis is quick, taking less than one minute, and enables teams to focus on what a device “should” do, rather than how it is implemented. In a time constrained environment, rapid prototyping tools like electronic storyboards can facilitate better design outcomes by evaluating more prototypes over time. Initial results show this tool is usable by interdisciplinary teams, helps teams evaluate their design, and aids participants in understanding computational properties of the storyboarded systems.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;https://jforsyth.github.io/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;http://jasonforsyth.net/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;https://jforsyth.github.io/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;http://jasonforsyth.net/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Jason Forsyth, “Using Electronic Storyboards to Support Interdisciplinary Design of Pervasive Computing Systems”, Poster Presentation for the Sixth Annual Ph.D. Forum on Pervasive Computing and Communications (PerCom), San Diego, March 20th, 2013&lt;/p&gt;
 
-&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;https://jforsyth.github.io/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;http://jasonforsyth.net/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;
 Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”, National Science Foundation. Award Date: 4/1/2015. Amount: $50,000. &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward?AWD_ID=1535818&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
@@ -88,18 +88,18 @@ Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”,
     
     <item>
       <title>Wearable Safety Systems</title>
-      <link>https://jforsyth.github.io/project/wearable-safety/</link>
+      <link>http://jasonforsyth.net/project/wearable-safety/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/wearable-safety/</guid>
+      <guid>http://jasonforsyth.net/project/wearable-safety/</guid>
       <description>&lt;p&gt;Wearable safety devices provide continuous monitoring and sensing to protect human life. Safety-critical pervasive systems are challenging to develop as these systems must be easy to use while providing the user with reliable and timely warnings. Examining the hazards faced by construction workers, many are at risk of carbon monoxide poisoning when working with gasoline powered tools in or around enclosed spaces. To address this problem, we integrated a pulse oximetry sensor into the headband of a typical construction helmet to non-invasively measure blood gas concentrations. Based upon our reliability analysis the integrated sensor can warn the worker of impending carbon monoxide poisoning with 99% reliability. This work was the first to address reliability of wearable pulse oximetry during motion and has been recognized by IEEE Transactions on Automation Science and Engineering as the best paper of 2012. Building on this work, we have developed a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;https://jforsyth.github.io/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;http://jasonforsyth.net/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;https://jforsyth.github.io/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;http://jasonforsyth.net/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). &lt;a href=&#34;https://jforsyth.github.io/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). &lt;a href=&#34;http://jasonforsyth.net/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/</link>
-      <atom:link href="https://jforsyth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/</link>
+      <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
-      <link>https://jforsyth.github.io/</link>
+      <link>http://jasonforsyth.net/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jforsyth.github.io/teaching/</link>
+      <link>http://jasonforsyth.net/teaching/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/teaching/</guid>
+      <guid>http://jasonforsyth.net/teaching/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Engineering Courses Taught at James Madison University&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -125,36 +125,36 @@
     
     <item>
       <title>EduGit: Toward a Platform for Publishing and Adopting Course Content</title>
-      <link>https://jforsyth.github.io/publication/edugit/</link>
+      <link>http://jasonforsyth.net/publication/edugit/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/edugit/</guid>
+      <guid>http://jasonforsyth.net/publication/edugit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engagement in Practice: Engaging with the Community One Bike at a Time</title>
-      <link>https://jforsyth.github.io/publication/asee2019jmu/</link>
+      <link>http://jasonforsyth.net/publication/asee2019jmu/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2019jmu/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2019jmu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
-      <link>https://jforsyth.github.io/publication/asee2019ycp/</link>
+      <link>http://jasonforsyth.net/publication/asee2019ycp/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2019ycp/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2019ycp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications at ASEE 2019 and Election to Program Chair</title>
-      <link>https://jforsyth.github.io/post/asee2019/</link>
+      <link>http://jasonforsyth.net/post/asee2019/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/post/asee2019/</guid>
-      <description>&lt;p&gt;I am co-author on two papers this year at ASEE. The first, a collaboration with my JMU colleagues on our sophomore engineering design course that creates human-powered vehicles for persons with limited mobility. Our paper “Engagement in Practice: Engaging with the Community One Bike at a Time” can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/engagement-in-practice-engaging-with-the-community-one-bike-at-a-time.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://jasonforsyth.net/post/asee2019/</guid>
+      <description>&lt;p&gt;I am co-author on two papers this year at ASEE. The first, a collaboration with my JMU colleagues on our sophomore engineering design course that creates human-powered vehicles for persons with limited mobility. Our paper “Engagement in Practice: Engaging with the Community One Bike at a Time” can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/engagement-in-practice-engaging-with-the-community-one-bike-at-a-time.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The second paper reports on previous work at York College with our freshman engineering experience and the results of a new integrative activity to cover electrical and computer engineering topics. Our paper “A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students ” can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/a-seven-week-module-to-introduce-electrical-and-computer-engineering-to-freshmen-engineering-students.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The second paper reports on previous work at York College with our freshman engineering experience and the results of a new integrative activity to cover electrical and computer engineering topics. Our paper “A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students ” can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/a-seven-week-module-to-introduce-electrical-and-computer-engineering-to-freshmen-engineering-students.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finally, I have been elected as the Program Chair for the ASEE
 Entrepreneurship and Engineering Innovation and division. I’m looking forward to reading all the abstracts and papers for the 2020 program in Montreal!&lt;/p&gt;
@@ -163,28 +163,28 @@ Entrepreneurship and Engineering Innovation and division. I’m looking forward 
     
     <item>
       <title>Undergraduate Student Presentation at ACM CAPWIC</title>
-      <link>https://jforsyth.github.io/post/capwic/</link>
+      <link>http://jasonforsyth.net/post/capwic/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/post/capwic/</guid>
-      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;https://jforsyth.github.io/img/sanarea-ali-capwic.jpg&#34; alt=&#34;Sanarea Ali at CAPWIC 2019&#34; title=&#34;Sanarea Ali at CAPWIC 2019&#34;&gt;&lt;figcaption&gt;Sanarea Ali at CAPWIC 2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+      <guid>http://jasonforsyth.net/post/capwic/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sanarea-ali-capwic.jpg&#34; alt=&#34;Sanarea Ali at CAPWIC 2019&#34; title=&#34;Sanarea Ali at CAPWIC 2019&#34;&gt;&lt;figcaption&gt;Sanarea Ali at CAPWIC 2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;JMU Engineering student, Sanarea Ali, gave a flash talk on her proposed wearable computing system for physical rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Her research examines how wearable computing can support clinicians in understanding patient injuries and improving their recovery. The abstract of her talk is included &lt;a href=&#34;https://jforsyth.github.io/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;JMU Engineering student, Sanarea Ali, gave a flash talk on her proposed wearable computing system for physical rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Her research examines how wearable computing can support clinicians in understanding patient injuries and improving their recovery. The abstract of her talk is included &lt;a href=&#34;http://jasonforsyth.net/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Smart Sensor Network for an Automated Urban Greenhouse</title>
-      <link>https://jforsyth.github.io/publication/icrest/</link>
+      <link>http://jasonforsyth.net/publication/icrest/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/icrest/</guid>
+      <guid>http://jasonforsyth.net/publication/icrest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wearable Computing for Physical Therapy</title>
-      <link>https://jforsyth.github.io/project/physical-therapy/</link>
+      <link>http://jasonforsyth.net/project/physical-therapy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/physical-therapy/</guid>
+      <guid>http://jasonforsyth.net/project/physical-therapy/</guid>
       <description>&lt;p&gt;The project will develop a novel wearable computing system for use in physical therapy and rehabilitation
 exercises. Often patients undergoing physical therapy are prescribed a set of stretches and exercises to
 strengthen an injured muscle group. While outside of the doctor’s office, the physical therapist cannot
@@ -199,7 +199,7 @@ activities performed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;https://jforsyth.github.io/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 
@@ -209,18 +209,18 @@ activities performed.&lt;/p&gt;
     
     <item>
       <title>Service Learning</title>
-      <link>https://jforsyth.github.io/project/service-learning/</link>
+      <link>http://jasonforsyth.net/project/service-learning/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/service-learning/</guid>
+      <guid>http://jasonforsyth.net/project/service-learning/</guid>
       <description>&lt;p&gt;Because pervasive computing systems deal intimately with human needs and interactions, they must be envisioned and developed by interdisciplinary teams that not only understand the technological challenges, but the human ones as well. Crucial to this design process is ensuring these teams are effective and well-functioning. Specifically, it is important that all participants understand the abilities of team members from other disciplines. In earlier work I examined how prototyping exercises helped clarify project goals and establish a disciplinary rapport within teams. More recently I have studied the motivations of capstone design teams. In particular, we have compared the attitudes and experiences of students working on traditional, single discipline projects, such as design of off-road and race cars, as compared to students working in a more interdisciplinary setting designing a smart greenhouse for a local elementary school and assistive technologies for persons with mental and physical disabilities. Looking at these two populations, we found that students who participated in the more interdisciplinary and service-oriented projects felt more personal satisfaction in their engineering work than their peers on the single discipline projects.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;https://jforsyth.github.io/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;http://jasonforsyth.net/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;https://jforsyth.github.io/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;http://jasonforsyth.net/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;https://jforsyth.github.io/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;http://jasonforsyth.net/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 
@@ -232,27 +232,27 @@ activities performed.&lt;/p&gt;
     
     <item>
       <title>Effects of Service-Learning Projects on Capstone Student Motivation</title>
-      <link>https://jforsyth.github.io/publication/asee2018multi/</link>
+      <link>http://jasonforsyth.net/publication/asee2018multi/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2018multi/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2018multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joining JMU Engineering Faculty</title>
-      <link>https://jforsyth.github.io/post/joinjmu/</link>
+      <link>http://jasonforsyth.net/post/joinjmu/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/post/joinjmu/</guid>
+      <guid>http://jasonforsyth.net/post/joinjmu/</guid>
       <description>&lt;p&gt;I am happy to announce that I will be joining the Department of Engineering at James Madison University starting Fall 2018. I am excited to work with my new colleagues and develop new bridges between engineering, computer science, and other interdisciplinary programs at JMU.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Publications at ASEE 2018</title>
-      <link>https://jforsyth.github.io/post/asee2018/</link>
+      <link>http://jasonforsyth.net/post/asee2018/</link>
       <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/post/asee2018/</guid>
-      <description>&lt;p&gt;Our paper “Effects of Service-Learning Projects on Capstone Student Motivation” has been accepted into the Multidisciplinary Engineering Division for ASEE 2018. Co-authors are Dr. Mark Budnik (Valparaiso), Dr. Randi Shedlosky (YCP), and Dr. Jeff Will (Valparaiso). The paper examines student motivation differences in service and non-service capstone projects. A pre-print of the paper can be found &lt;a href=&#34;https://jforsyth.github.io/pdf/ASEE-Multi-Pre-print-2018.pdf&#34;&gt;here&lt;/a&gt; and and the presentation slides &lt;a href=&#34;https://jforsyth.github.io/pdf/ASEE-Multi-2018-Presentation.pdf&#34;&gt;here&lt;/a&gt;. The abstract in included below:&lt;/p&gt;
+      <guid>http://jasonforsyth.net/post/asee2018/</guid>
+      <description>&lt;p&gt;Our paper “Effects of Service-Learning Projects on Capstone Student Motivation” has been accepted into the Multidisciplinary Engineering Division for ASEE 2018. Co-authors are Dr. Mark Budnik (Valparaiso), Dr. Randi Shedlosky (YCP), and Dr. Jeff Will (Valparaiso). The paper examines student motivation differences in service and non-service capstone projects. A pre-print of the paper can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/ASEE-Multi-Pre-print-2018.pdf&#34;&gt;here&lt;/a&gt; and and the presentation slides &lt;a href=&#34;http://jasonforsyth.net/pdf/ASEE-Multi-2018-Presentation.pdf&#34;&gt;here&lt;/a&gt;. The abstract in included below:&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Many engineering programs incorporate project-based, service learning into traditional classes and capstone experience. These projects focus on service-related challenges that impact the local, national, or international community and could be described as “humanitarian” or “for the greater good”. While these projects have shown positive benefits for recruitment, retention, and student diversity, what has been unexamined is whether student motivations in the projects differ from their peers in more traditional capstone projects. We hypothesize that students in service-oriented capstone projects may feel greater motivation and engagement with their project due to its service components as compared to their peers in other capstone projects.&lt;/em&gt;&lt;/p&gt;
@@ -264,54 +264,54 @@ activities performed.&lt;/p&gt;
     
     <item>
       <title>A Student Project using Robotic Operating System (ROS) for Undergraduate Research</title>
-      <link>https://jforsyth.github.io/publication/ros-student/</link>
+      <link>http://jasonforsyth.net/publication/ros-student/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ros-student/</guid>
+      <guid>http://jasonforsyth.net/publication/ros-student/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Benefits and Challenges of Transitioning to Community Service Multidisciplinary Capstone Projects</title>
-      <link>https://jforsyth.github.io/publication/greenhouse/</link>
+      <link>http://jasonforsyth.net/publication/greenhouse/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/greenhouse/</guid>
+      <guid>http://jasonforsyth.net/publication/greenhouse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Project Based Learning Using the Robotic Operating System (ROS) for Undergraduate Research Applications</title>
-      <link>https://jforsyth.github.io/publication/ros-ycp/</link>
+      <link>http://jasonforsyth.net/publication/ros-ycp/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ros-ycp/</guid>
+      <guid>http://jasonforsyth.net/publication/ros-ycp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The design of smart garments for motion capture and activity classification</title>
-      <link>https://jforsyth.github.io/publication/wearablesbook/</link>
+      <link>http://jasonforsyth.net/publication/wearablesbook/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/wearablesbook/</guid>
+      <guid>http://jasonforsyth.net/publication/wearablesbook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pervasive Computing Prototyping Tools</title>
-      <link>https://jforsyth.github.io/project/pervasive-computing/</link>
+      <link>http://jasonforsyth.net/project/pervasive-computing/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/pervasive-computing/</guid>
+      <guid>http://jasonforsyth.net/project/pervasive-computing/</guid>
       <description>&lt;p&gt;Interdisciplinary design tools facilitate collaboration between engineering and design practitioners to ensure that pervasive products and services are aesthetically pleasing and technologically feasible. From our research with interdisciplinary teams, we found that a shared vocabulary and understanding of design constraints is critical for effective interdisciplinary collaboration. This requires prototyping tools to be accessible across disciplines but sufficiently powerful to develop a working system. Using our technique of electronic storyboards, design teams can electronically “sketch” how a pervasive system should behave and automatically synthesize behavioral descriptions of that system as source code, textual descriptions, and state charts. Descriptions are generated by analyzing storyboard layout, user-applied annotations, and natural language processing of text in the storyboard. During synthesis the electronic storyboard will query the design team to resolve missing or ambiguous information.&lt;/p&gt;
 
 &lt;p&gt;The descriptions produced by the electronic storyboard, and the tool queries during synthesis, serve as a reflection point for teams to understand if they have properly described their prototype. Storyboard synthesis is quick, taking less than one minute, and enables teams to focus on what a device “should” do, rather than how it is implemented. In a time constrained environment, rapid prototyping tools like electronic storyboards can facilitate better design outcomes by evaluating more prototypes over time. Initial results show this tool is usable by interdisciplinary teams, helps teams evaluate their design, and aids participants in understanding computational properties of the storyboarded systems.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;https://jforsyth.github.io/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;http://jasonforsyth.net/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;https://jforsyth.github.io/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;http://jasonforsyth.net/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Jason Forsyth, “Using Electronic Storyboards to Support Interdisciplinary Design of Pervasive Computing Systems”, Poster Presentation for the Sixth Annual Ph.D. Forum on Pervasive Computing and Communications (PerCom), San Diego, March 20th, 2013&lt;/p&gt;
 
-&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;https://jforsyth.github.io/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;http://jasonforsyth.net/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;
 Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”, National Science Foundation. Award Date: 4/1/2015. Amount: $50,000. &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward?AWD_ID=1535818&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
@@ -320,114 +320,114 @@ Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”,
     
     <item>
       <title>Feasibility of GPS-based Warning System for Roadside Workers</title>
-      <link>https://jforsyth.github.io/publication/iccv/</link>
+      <link>http://jasonforsyth.net/publication/iccv/</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/iccv/</guid>
+      <guid>http://jasonforsyth.net/publication/iccv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engaging Middle School Students in SEAD Learning Through Smart Product Design</title>
-      <link>https://jforsyth.github.io/publication/fablab/</link>
+      <link>http://jasonforsyth.net/publication/fablab/</link>
       <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/fablab/</guid>
+      <guid>http://jasonforsyth.net/publication/fablab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wearable Safety Systems</title>
-      <link>https://jforsyth.github.io/project/wearable-safety/</link>
+      <link>http://jasonforsyth.net/project/wearable-safety/</link>
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/project/wearable-safety/</guid>
+      <guid>http://jasonforsyth.net/project/wearable-safety/</guid>
       <description>&lt;p&gt;Wearable safety devices provide continuous monitoring and sensing to protect human life. Safety-critical pervasive systems are challenging to develop as these systems must be easy to use while providing the user with reliable and timely warnings. Examining the hazards faced by construction workers, many are at risk of carbon monoxide poisoning when working with gasoline powered tools in or around enclosed spaces. To address this problem, we integrated a pulse oximetry sensor into the headband of a typical construction helmet to non-invasively measure blood gas concentrations. Based upon our reliability analysis the integrated sensor can warn the worker of impending carbon monoxide poisoning with 99% reliability. This work was the first to address reliability of wearable pulse oximetry during motion and has been recognized by IEEE Transactions on Automation Science and Engineering as the best paper of 2012. Building on this work, we have developed a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;https://jforsyth.github.io/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;http://jasonforsyth.net/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;https://jforsyth.github.io/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;http://jasonforsyth.net/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). &lt;a href=&#34;https://jforsyth.github.io/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (Accepted for publication, 33% acceptance rate). &lt;a href=&#34;http://jasonforsyth.net/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Extracting Behavioral Information from Electronic Storyboards</title>
-      <link>https://jforsyth.github.io/publication/eics/</link>
+      <link>http://jasonforsyth.net/publication/eics/</link>
       <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/eics/</guid>
+      <guid>http://jasonforsyth.net/publication/eics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interdisciplinary Pedagogy for Pervasive Computing Design Processes: An Evaluative Analysis</title>
-      <link>https://jforsyth.github.io/publication/asee-ubi/</link>
+      <link>http://jasonforsyth.net/publication/asee-ubi/</link>
       <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee-ubi/</guid>
+      <guid>http://jasonforsyth.net/publication/asee-ubi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Form, Function and Performances in a Musical Instrument MAKErs Camp</title>
-      <link>https://jforsyth.github.io/publication/sigcse/</link>
+      <link>http://jasonforsyth.net/publication/sigcse/</link>
       <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/sigcse/</guid>
+      <guid>http://jasonforsyth.net/publication/sigcse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
-      <link>https://jforsyth.github.io/publication/puc/</link>
+      <link>http://jasonforsyth.net/publication/puc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/puc/</guid>
+      <guid>http://jasonforsyth.net/publication/puc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
-      <link>https://jforsyth.github.io/publication/idsa/</link>
+      <link>http://jasonforsyth.net/publication/idsa/</link>
       <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/idsa/</guid>
+      <guid>http://jasonforsyth.net/publication/idsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning</title>
-      <link>https://jforsyth.github.io/publication/tase-journal/</link>
+      <link>http://jasonforsyth.net/publication/tase-journal/</link>
       <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/tase-journal/</guid>
+      <guid>http://jasonforsyth.net/publication/tase-journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tools for Interdisciplinary Design of Pervasive Computing</title>
-      <link>https://jforsyth.github.io/publication/ipjcc/</link>
+      <link>http://jasonforsyth.net/publication/ipjcc/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ipjcc/</guid>
+      <guid>http://jasonforsyth.net/publication/ipjcc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Interdisciplinary Design Course for Pervasive Computing</title>
-      <link>https://jforsyth.github.io/publication/ieee-per/</link>
+      <link>http://jasonforsyth.net/publication/ieee-per/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ieee-per/</guid>
+      <guid>http://jasonforsyth.net/publication/ieee-per/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
-      <link>https://jforsyth.github.io/publication/iswc-2011/</link>
+      <link>http://jasonforsyth.net/publication/iswc-2011/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/iswc-2011/</guid>
+      <guid>http://jasonforsyth.net/publication/iswc-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers</title>
-      <link>https://jforsyth.github.io/publication/percom/</link>
+      <link>http://jasonforsyth.net/publication/percom/</link>
       <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/percom/</guid>
+      <guid>http://jasonforsyth.net/publication/percom/</guid>
       <description></description>
     </item>
     

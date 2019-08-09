@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patrick Lynn | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/patrick-lynn/</link>
-      <atom:link href="https://jforsyth.github.io/authors/patrick-lynn/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/patrick-lynn/</link>
+      <atom:link href="http://jasonforsyth.net/authors/patrick-lynn/index.xml" rel="self" type="application/rss+xml" />
     <description>Patrick Lynn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 25 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Patrick Lynn</title>
-      <link>https://jforsyth.github.io/authors/patrick-lynn/</link>
+      <link>http://jasonforsyth.net/authors/patrick-lynn/</link>
     </image>
     
     <item>
       <title>A Student Project using Robotic Operating System (ROS) for Undergraduate Research</title>
-      <link>https://jforsyth.github.io/publication/ros-student/</link>
+      <link>http://jasonforsyth.net/publication/ros-student/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/ros-student/</guid>
+      <guid>http://jasonforsyth.net/publication/ros-student/</guid>
       <description></description>
     </item>
     

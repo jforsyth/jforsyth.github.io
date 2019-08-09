@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Randi Shedlosky | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/randi-shedlosky/</link>
-      <atom:link href="https://jforsyth.github.io/authors/randi-shedlosky/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/randi-shedlosky/</link>
+      <atom:link href="http://jasonforsyth.net/authors/randi-shedlosky/index.xml" rel="self" type="application/rss+xml" />
     <description>Randi Shedlosky</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sun, 24 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Randi Shedlosky</title>
-      <link>https://jforsyth.github.io/authors/randi-shedlosky/</link>
+      <link>http://jasonforsyth.net/authors/randi-shedlosky/</link>
     </image>
     
     <item>
       <title>Effects of Service-Learning Projects on Capstone Student Motivation</title>
-      <link>https://jforsyth.github.io/publication/asee2018multi/</link>
+      <link>http://jasonforsyth.net/publication/asee2018multi/</link>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2018multi/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2018multi/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyle Gibson | Jason Forsyth&#39;s Personal Website</title>
-    <link>https://jforsyth.github.io/authors/kyle-gibson/</link>
-      <atom:link href="https://jforsyth.github.io/authors/kyle-gibson/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://jasonforsyth.net/authors/kyle-gibson/</link>
+      <atom:link href="http://jasonforsyth.net/authors/kyle-gibson/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle Gibson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jforsyth.github.io/img/icon-192.png</url>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Kyle Gibson</title>
-      <link>https://jforsyth.github.io/authors/kyle-gibson/</link>
+      <link>http://jasonforsyth.net/authors/kyle-gibson/</link>
     </image>
     
     <item>
       <title>Engagement in Practice: Engaging with the Community One Bike at a Time</title>
-      <link>https://jforsyth.github.io/publication/asee2019jmu/</link>
+      <link>http://jasonforsyth.net/publication/asee2019jmu/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://jforsyth.github.io/publication/asee2019jmu/</guid>
+      <guid>http://jasonforsyth.net/publication/asee2019jmu/</guid>
       <description></description>
     </item>
     
