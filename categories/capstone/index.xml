@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Capstone | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/categories/capstone/</link>
+      <atom:link href="http://jasonforsyth.net/categories/capstone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Capstone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Tue, 10 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Capstone</title>
+      <link>http://jasonforsyth.net/categories/capstone/</link>
+    </image>
+    
+    <item>
+      <title>York County Community Foundation Grant Awarded</title>
+      <link>http://jasonforsyth.net/post/yccf/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/yccf/</guid>
+      <description>&lt;p&gt;Dr. Nicole Hesson and I received a grant from the York County Community Foundation to support our work with project-based service learning and capstone teams. The grant will support a student researcher for the project and capital costs for the Goode School Automated Greenhouse designed by YCP Engineering students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Great to Greater Grant Awarded</title>
+      <link>http://jasonforsyth.net/post/greattogreater/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/greattogreater/</guid>
+      <description>&lt;p&gt;Dr. Nicole Hesson (Education) and I have received a Great to Greater Grant from the Office of the President to engage engineering and education students in community-based service projects. Grant funds will go towards two new capstone projects: an automated greenhouse at Goode School in York City, and assistive technologies for employees with mental and physical difficulties at Shadowfax Corp. Education students will support the project by creating custom science curriculum for teachers at Goode to support the greenhouse.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
