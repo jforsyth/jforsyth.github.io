@@ -3,14 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jasonforsyth.net/teaching/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <loc>http://jasonforsyth.net/categories/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/jmu/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/marcus2019/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/teaching/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -106,12 +134,6 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/categories/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/authors/eleanor-leung/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -136,25 +158,8 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/post/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/post/asee2019/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/jmu/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

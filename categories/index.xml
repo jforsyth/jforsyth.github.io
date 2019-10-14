@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/categories/</link>
       <atom:link href="http://jasonforsyth.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>ASEE</title>
-      <link>http://jasonforsyth.net/categories/asee/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/categories/asee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/jmu/</guid>
       <description></description>
     </item>
@@ -31,8 +23,16 @@
     <item>
       <title>Undergraduate Research</title>
       <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/undergraduate-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASEE</title>
+      <link>http://jasonforsyth.net/categories/asee/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/categories/asee/</guid>
       <description></description>
     </item>
     
