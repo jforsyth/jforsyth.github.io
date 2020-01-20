@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/publication/</link>
       <atom:link href="http://jasonforsyth.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Publications</title>
@@ -81,6 +81,14 @@
       <link>http://jasonforsyth.net/publication/wearablesbook/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/publication/wearablesbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Electronic Storyboards as Interdisciplinary Design Tools for Pervasive Computing</title>
+      <link>http://jasonforsyth.net/publication/dissertation/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/dissertation/</guid>
       <description></description>
     </item>
     
@@ -177,6 +185,14 @@
       <link>http://jasonforsyth.net/publication/percom/</link>
       <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/publication/percom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Pulse Oximetry in Construction Environments</title>
+      <link>http://jasonforsyth.net/publication/thesis/</link>
+      <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/thesis/</guid>
       <description></description>
     </item>
     

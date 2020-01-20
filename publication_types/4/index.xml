@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/publication_types/4/</link>
+      <atom:link href="http://jasonforsyth.net/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Tue, 09 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>4</title>
+      <link>http://jasonforsyth.net/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Electronic Storyboards as Interdisciplinary Design Tools for Pervasive Computing</title>
+      <link>http://jasonforsyth.net/publication/dissertation/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Pulse Oximetry in Construction Environments</title>
+      <link>http://jasonforsyth.net/publication/thesis/</link>
+      <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
