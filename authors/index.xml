@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/authors/</link>
       <atom:link href="http://jasonforsyth.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>Humero Murzi</title>
+      <link>http://jasonforsyth.net/authors/humero-murzi/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/humero-murzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jason Forsyth</title>
       <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lilianny Virguez</title>
+      <link>http://jasonforsyth.net/authors/lilianny-virguez/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/lilianny-virguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew James</title>
+      <link>http://jasonforsyth.net/authors/matthew-james/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/matthew-james/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pamela L. Dickrell</title>
+      <link>http://jasonforsyth.net/authors/pamela-l.-dickrell/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/pamela-l.-dickrell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicole Hesson</title>
+      <link>http://jasonforsyth.net/authors/nicole-hesson/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/nicole-hesson/</guid>
       <description></description>
     </item>
     
@@ -153,14 +193,6 @@
       <link>http://jasonforsyth.net/authors/matthew-jones/</link>
       <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/matthew-jones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicole Hesson</title>
-      <link>http://jasonforsyth.net/authors/nicole-hesson/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/nicole-hesson/</guid>
       <description></description>
     </item>
     
@@ -379,7 +411,7 @@
       <guid>http://jasonforsyth.net/authors/admin/</guid>
       <description>&lt;p&gt;Welcome to Jason Forsyth’s personal website!&lt;/p&gt;
 
-&lt;p&gt;I can also be found on &lt;a href=&#34;https://scholar.google.com/citations?user=EY6SBHcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;. Feel free to contact me at forsy2jb {&lt;em&gt;at&lt;/em&gt;} jmu.edu. My full CV can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/Jason-Forsyth-CV.pdf&#34;&gt;here&lt;/a&gt; (Current as of 10/1/2019). Feel free to browse the pages below and find my recent &lt;a href=&#34;#posts&#34;&gt;news&lt;/a&gt;, &lt;a href=&#34;#biography&#34;&gt;biography&lt;/a&gt;, &lt;a href=&#34;#projects&#34;&gt;current projects&lt;/a&gt;, and &lt;a href=&#34;#publications&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I can also be found on &lt;a href=&#34;https://scholar.google.com/citations?user=EY6SBHcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;. Feel free to contact me at forsy2jb {&lt;em&gt;at&lt;/em&gt;} jmu.edu. My full CV can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/Jason-Forsyth-CV.pdf&#34;&gt;here&lt;/a&gt; (Current as of 7/28/2020). Feel free to browse the pages below and find my recent &lt;a href=&#34;#posts&#34;&gt;news&lt;/a&gt;, &lt;a href=&#34;#biography&#34;&gt;biography&lt;/a&gt;, &lt;a href=&#34;#projects&#34;&gt;current projects&lt;/a&gt;, and &lt;a href=&#34;#publications&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>http://jasonforsyth.net/</link>
     </image>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://jasonforsyth.net/publication/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
@@ -38,7 +46,12 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;ENGR 112: Engineering Decisions&lt;/td&gt;
-&lt;td&gt;Spring 2019&lt;/td&gt;
+&lt;td&gt;Spring 2019, Spring 2020&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 280: Real-World Modeling and Programming&lt;/td&gt;
+&lt;td&gt;Spring 2020&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -48,7 +61,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;ENGR 313: Circuits and Instrumentation&lt;/td&gt;
-&lt;td&gt;Fall 2018, Spring 2019, Fall 2019&lt;/td&gt;
+&lt;td&gt;Fall 2018, Spring 2019, Fall 2019, Spring 2020&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -131,14 +144,6 @@
 
 &lt;p&gt;ECE 420 – Embedded System Design: Culminating course for electrical and computer engineering students combining all aspects of microprocessor systems. Semester long project focuses on development and optimization of wearable pedometer system. Each student must conduct research towards a selected optimization goal of energy efficiency, step count accuracy, or physical size minimization.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://jasonforsyth.net/publication/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/publication/</guid>
-      <description></description>
     </item>
     
     <item>

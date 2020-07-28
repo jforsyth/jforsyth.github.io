@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humero Murzi | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/humero-murzi/</link>
+      <atom:link href="http://jasonforsyth.net/authors/humero-murzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Humero Murzi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Humero Murzi</title>
+      <link>http://jasonforsyth.net/authors/humero-murzi/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Perceptions of Disciplines Using Arts-informed Methods</title>
+      <link>http://jasonforsyth.net/publication/asee2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

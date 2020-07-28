@@ -3,12 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jasonforsyth.net/categories/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+    <loc>http://jasonforsyth.net/publication_types/1/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/asee2020/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/humero-murzi/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/lilianny-virguez/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/matthew-james/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/pamela-l.-dickrell/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication_types/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/narst/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/nicole-hesson/</loc>
+    <lastmod>2020-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,37 +98,12 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/publication_types/1/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/publication/edugit/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/authors/michael-stewart/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication_types/</loc>
-    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -259,11 +294,6 @@
   
   <url>
     <loc>http://jasonforsyth.net/authors/matthew-jones/</loc>
-    <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/nicole-hesson/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
   </url>
   
