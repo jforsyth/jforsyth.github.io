@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/authors/</link>
       <atom:link href="http://jasonforsyth.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,74 @@
     </image>
     
     <item>
-      <title>Humero Murzi</title>
-      <link>http://jasonforsyth.net/authors/humero-murzi/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/humero-murzi/</guid>
+      <title>Callie Miller</title>
+      <link>http://jasonforsyth.net/authors/callie-miller/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/callie-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Castaneda</title>
+      <link>http://jasonforsyth.net/authors/daniel-castaneda/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/daniel-castaneda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacquelyn Nagel</title>
+      <link>http://jasonforsyth.net/authors/jacquelyn-nagel/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jacquelyn-nagel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jason Forsyth</title>
       <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurt Paterson</title>
+      <link>http://jasonforsyth.net/authors/kurt-paterson/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/kurt-paterson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Gipson</title>
+      <link>http://jasonforsyth.net/authors/kyle-gipson/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/kyle-gipson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert Nagel</title>
+      <link>http://jasonforsyth.net/authors/robert-nagel/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/robert-nagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shraddha Joshi</title>
+      <link>http://jasonforsyth.net/authors/shraddha-joshi/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/shraddha-joshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humero Murzi</title>
+      <link>http://jasonforsyth.net/authors/humero-murzi/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/humero-murzi/</guid>
       <description></description>
     </item>
     
@@ -61,6 +117,78 @@
     </item>
     
     <item>
+      <title>Brian Schieber</title>
+      <link>http://jasonforsyth.net/authors/brian-schieber/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/brian-schieber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dominic Coradazzi</title>
+      <link>http://jasonforsyth.net/authors/dominic-coradazzi/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/dominic-coradazzi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ernest Benner</title>
+      <link>http://jasonforsyth.net/authors/ernest-benner/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/ernest-benner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isaac Miller</title>
+      <link>http://jasonforsyth.net/authors/isaac-miller/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/isaac-miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Ortiz</title>
+      <link>http://jasonforsyth.net/authors/jacob-ortiz/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jacob-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Henriques</title>
+      <link>http://jasonforsyth.net/authors/justin-henriques/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/justin-henriques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justyn Girdner</title>
+      <link>http://jasonforsyth.net/authors/justyn-girdner/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/justyn-girdner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parth Patel</title>
+      <link>http://jasonforsyth.net/authors/parth-patel/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/parth-patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zachary DeBey</title>
+      <link>http://jasonforsyth.net/authors/zachary-debey/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/zachary-debey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Michael Stewart</title>
       <link>http://jasonforsyth.net/authors/michael-stewart/</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
@@ -77,42 +205,10 @@
     </item>
     
     <item>
-      <title>Callie Miller</title>
-      <link>http://jasonforsyth.net/authors/callie-miller/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/callie-miller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacquelyn Nagel</title>
-      <link>http://jasonforsyth.net/authors/jacquelyn-nagel/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/jacquelyn-nagel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kyle Gibson</title>
       <link>http://jasonforsyth.net/authors/kyle-gibson/</link>
       <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/kyle-gibson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robert Nagel</title>
-      <link>http://jasonforsyth.net/authors/robert-nagel/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/robert-nagel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shraddha Joshi</title>
-      <link>http://jasonforsyth.net/authors/shraddha-joshi/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/shraddha-joshi/</guid>
       <description></description>
     </item>
     

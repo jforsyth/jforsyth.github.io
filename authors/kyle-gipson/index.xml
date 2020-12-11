@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Gipson | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/kyle-gipson/</link>
+      <atom:link href="http://jasonforsyth.net/authors/kyle-gipson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Gipson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Kyle Gipson</title>
+      <link>http://jasonforsyth.net/authors/kyle-gipson/</link>
+    </image>
+    
+    <item>
+      <title>24for24: A Virtual Summer Bridge Program in Multiple 24-Minute Sessions for the Collegiate Class of 2024</title>
+      <link>http://jasonforsyth.net/publication/econf/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/econf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

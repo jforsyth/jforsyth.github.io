@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Schieber | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/brian-schieber/</link>
+      <atom:link href="http://jasonforsyth.net/authors/brian-schieber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Schieber</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Brian Schieber</title>
+      <link>http://jasonforsyth.net/authors/brian-schieber/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing Crop Health in Vineyards Through a Multispectral Imaging and Drone System</title>
+      <link>http://jasonforsyth.net/publication/sieds2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

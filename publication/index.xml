@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/publication/</link>
       <atom:link href="http://jasonforsyth.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Publications</title>
       <link>http://jasonforsyth.net/publication/</link>
     </image>
+    
+    <item>
+      <title>24for24: A Virtual Summer Bridge Program in Multiple 24-Minute Sessions for the Collegiate Class of 2024</title>
+      <link>http://jasonforsyth.net/publication/econf/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/econf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Perceptions of Disciplines Using Arts-informed Methods</title>
@@ -25,6 +33,14 @@
       <link>http://jasonforsyth.net/publication/narst/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/publication/narst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Crop Health in Vineyards Through a Multispectral Imaging and Drone System</title>
+      <link>http://jasonforsyth.net/publication/sieds2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2020/</guid>
       <description></description>
     </item>
     
