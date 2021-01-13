@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
@@ -76,7 +76,7 @@ More information can be found in his &lt;a href=&#34;http://jasonforsyth.net/pdf
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;ENGR 112: Engineering Decisions&lt;/td&gt;
-&lt;td&gt;Spring 2019, Spring 2020&lt;/td&gt;
+&lt;td&gt;Spring 2019, Spring 2020, Spring 2021&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -85,18 +85,33 @@ More information can be found in his &lt;a href=&#34;http://jasonforsyth.net/pdf
 &lt;/tr&gt;
 
 &lt;tr&gt;
+&lt;td&gt;ENGR 280: Python Programming with Biometric Data&lt;/td&gt;
+&lt;td&gt;Fall 2020&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
 &lt;td&gt;ENGR 231: Engineering Design I&lt;/td&gt;
-&lt;td&gt;Fall 2018&lt;/td&gt;
+&lt;td&gt;Fall 2018, Fall 2020&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 232: Engineering Design II&lt;/td&gt;
+&lt;td&gt;Spring 2021&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;ENGR 313: Circuits and Instrumentation&lt;/td&gt;
-&lt;td&gt;Fall 2018, Spring 2019, Fall 2019, Spring 2020&lt;/td&gt;
+&lt;td&gt;Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;ENGR 498: Design for the Internet of Things&lt;/td&gt;
 &lt;td&gt;Fall 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;ENGR 480 / CS 497: Autonomous Vehicles (co-taught with Dr. Nathan Sprague)&lt;/td&gt;
+&lt;td&gt;Spring 2021&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
