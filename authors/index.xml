@@ -5,12 +5,36 @@
     <link>http://jasonforsyth.net/authors/</link>
       <atom:link href="http://jasonforsyth.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Authors</title>
       <link>http://jasonforsyth.net/authors/</link>
     </image>
+    
+    <item>
+      <title>Jason Forsyth</title>
+      <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael S. Thompson</title>
+      <link>http://jasonforsyth.net/authors/michael-s.-thompson/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/michael-s.-thompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Mitchell</title>
+      <link>http://jasonforsyth.net/authors/stephen-mitchell/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/stephen-mitchell/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Callie Miller</title>
@@ -33,14 +57,6 @@
       <link>http://jasonforsyth.net/authors/jacquelyn-nagel/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/jacquelyn-nagel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Forsyth</title>
-      <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
-      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
       <description></description>
     </item>
     
