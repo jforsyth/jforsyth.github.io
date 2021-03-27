@@ -5,12 +5,31 @@
     <link>http://jasonforsyth.net/post/</link>
       <atom:link href="http://jasonforsyth.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sat, 12 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>News</title>
       <link>http://jasonforsyth.net/post/</link>
     </image>
+    
+    <item>
+      <title>Wearable Computing Lab Researchers Present at Several Conferences</title>
+      <link>http://jasonforsyth.net/post/ieee-capwic-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/ieee-capwic-2021/</guid>
+      <description>&lt;p&gt;Despite the pandemic, Spring 2021 has been a productive time for the undergraduate researchers in the Wearable Computing Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/stephen-ieee-conf.png&#34; alt=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34; title=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34;&gt;&lt;figcaption&gt;Stephen Mitchell presents his work at IEEE SouthEast Conference&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Stephen Mitchell has &lt;a href=&#34;http://jasonforsyth.net/pdf/Mitchell-IEEE-Presentation.pdf&#34;&gt;presented&lt;/a&gt; his latest work at IEEE SouthEast Conference. This &lt;a href=&#34;http://jasonforsyth.net/pdf/MitchellS-T7S2-ieee-ready.pdf&#34;&gt;short paper&lt;/a&gt; and presentation is an extension of his previous work that was presented at MARCUS 2019. Additionally analysis is on-going and has been accepted as publication for a full paper at SIEDS 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sophia-tyler-capwic.png&#34; alt=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34; title=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34;&gt;&lt;figcaption&gt;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capitol Region Celebration of Women in Computing (CAPWIC). Their &lt;a href=&#34;http://jasonforsyth.net/pdf/capwic-2021-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/cronin-webster-capwic-2021-presentation.pdf&#34;&gt;presentation&lt;/a&gt; are available.&lt;/p&gt;
+
+&lt;p&gt;Both of these works are supported by JMU CISE Faculty Development and Mini Grants.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Undergraduate Researcher Presents at MARCUS 2019</title>

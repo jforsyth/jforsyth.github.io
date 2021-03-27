@@ -5,12 +5,39 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>http://jasonforsyth.net/</link>
     </image>
+    
+    <item>
+      <title>Student Research Short: Wearable Computing for Physical Rehabilitation</title>
+      <link>http://jasonforsyth.net/publication/capwic-2021/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/capwic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Computing Lab Researchers Present at Several Conferences</title>
+      <link>http://jasonforsyth.net/post/ieee-capwic-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/ieee-capwic-2021/</guid>
+      <description>&lt;p&gt;Despite the pandemic, Spring 2021 has been a productive time for the undergraduate researchers in the Wearable Computing Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/stephen-ieee-conf.png&#34; alt=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34; title=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34;&gt;&lt;figcaption&gt;Stephen Mitchell presents his work at IEEE SouthEast Conference&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Stephen Mitchell has &lt;a href=&#34;http://jasonforsyth.net/pdf/Mitchell-IEEE-Presentation.pdf&#34;&gt;presented&lt;/a&gt; his latest work at IEEE SouthEast Conference. This &lt;a href=&#34;http://jasonforsyth.net/pdf/MitchellS-T7S2-ieee-ready.pdf&#34;&gt;short paper&lt;/a&gt; and presentation is an extension of his previous work that was presented at MARCUS 2019. Additionally analysis is on-going and has been accepted as publication for a full paper at SIEDS 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sophia-tyler-capwic.png&#34; alt=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34; title=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34;&gt;&lt;figcaption&gt;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capitol Region Celebration of Women in Computing (CAPWIC). Their &lt;a href=&#34;http://jasonforsyth.net/pdf/capwic-2021-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/cronin-webster-capwic-2021-presentation.pdf&#34;&gt;presentation&lt;/a&gt; are available.&lt;/p&gt;
+
+&lt;p&gt;Both of these works are supported by JMU CISE Faculty Development and Mini Grants.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Assessing Athletic Performance with a Wearable Inertial Measurement Unit</title>
@@ -275,11 +302,15 @@ activities performed.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
 
+&lt;p&gt;Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Poster Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) &lt;a href=&#34;http://jasonforsyth.net/post/ieee-capwic-2021/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500.&lt;/p&gt;
+&lt;p&gt;JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.&lt;/p&gt;
+
+&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.&lt;/p&gt;
 </description>
     </item>
     

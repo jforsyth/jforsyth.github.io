@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Undergraduate Research | Jason Forsyth&#39;s Personal Website</title>
-    <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
-      <atom:link href="http://jasonforsyth.net/categories/undergraduate-research/index.xml" rel="self" type="application/rss+xml" />
-    <description>Undergraduate Research</description>
+    <title>Wearable Computing | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/categories/wearable-computing/</link>
+      <atom:link href="http://jasonforsyth.net/categories/wearable-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wearable Computing</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
-      <title>Undergraduate Research</title>
-      <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
+      <title>Wearable Computing</title>
+      <link>http://jasonforsyth.net/categories/wearable-computing/</link>
     </image>
     
     <item>

@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
       <atom:link href="http://jasonforsyth.net/authors/jason-forsyth/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 11 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth</title>
       <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
     </image>
+    
+    <item>
+      <title>Student Research Short: Wearable Computing for Physical Rehabilitation</title>
+      <link>http://jasonforsyth.net/publication/capwic-2021/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/capwic-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing Athletic Performance with a Wearable Inertial Measurement Unit</title>

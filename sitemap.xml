@@ -3,6 +3,92 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jasonforsyth.net/publication_types/0/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication_types/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/sophia-cronin/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/capwic-2021/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/tyler-webster/</loc>
+    <lastmod>2021-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/jmu/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/wearable-computing/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/ieee-capwic-2021/</loc>
+    <lastmod>2021-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jasonforsyth.net/publication_types/1/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -14,38 +100,9 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/authors/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/authors/michael-s.-thompson/</loc>
     <lastmod>2021-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication_types/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication/</loc>
-    <lastmod>2021-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -197,29 +254,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/zachary-debey/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/jmu/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/post/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
-    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -705,12 +739,6 @@
   <url>
     <loc>http://jasonforsyth.net/publication/tase-journal/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication_types/0/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
