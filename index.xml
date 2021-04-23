@@ -5,12 +5,23 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>http://jasonforsyth.net/</link>
     </image>
+    
+    <item>
+      <title>Promotion to Associate Professor of Engineering</title>
+      <link>http://jasonforsyth.net/post/promotion/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/promotion/</guid>
+      <description>&lt;p&gt;Based upon action by the JMU Board of Visitors on April 16th I have been promoted to Associate Professor of Engineering effective August 25th, 2021.&lt;/p&gt;
+
+&lt;p&gt;I greatly appreciate the guidance and support from my JMU Engineering colleagues over the last three years. Futhermore, a great debt is owed to the &lt;a href=&#34;https://www.jasonforsyth.net/categories/undergraduate-research/&#34;&gt;undergraduate researchers&lt;/a&gt; in the Wearable Computing Lab for this milestone. I thank you all.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Student Research Short: Wearable Computing for Physical Rehabilitation</title>
