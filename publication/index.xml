@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/publication/</link>
       <atom:link href="http://jasonforsyth.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Publications</title>
       <link>http://jasonforsyth.net/publication/</link>
     </image>
+    
+    <item>
+      <title>Exploring Amateur Performance in Athletic Tests Using Wearable Sensors</title>
+      <link>http://jasonforsyth.net/publication/sieds2021/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Student Research Short: Wearable Computing for Physical Rehabilitation</title>

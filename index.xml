@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Thu, 29 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>http://jasonforsyth.net/</link>
     </image>
+    
+    <item>
+      <title>Exploring Amateur Performance in Athletic Tests Using Wearable Sensors</title>
+      <link>http://jasonforsyth.net/publication/sieds2021/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Promotion to Associate Professor of Engineering</title>
@@ -46,7 +54,9 @@
 
 &lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sophia-tyler-capwic.png&#34; alt=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34; title=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34;&gt;&lt;figcaption&gt;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capitol Region Celebration of Women in Computing (CAPWIC). Their &lt;a href=&#34;http://jasonforsyth.net/pdf/capwic-2021-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/cronin-webster-capwic-2021-presentation.pdf&#34;&gt;presentation&lt;/a&gt; are available.&lt;/p&gt;
+&lt;p&gt;Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Their &lt;a href=&#34;http://jasonforsyth.net/pdf/capwic-2021-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/cronin-webster-capwic-2021-presentation.pdf&#34;&gt;presentation&lt;/a&gt; are available.&lt;/p&gt;
+
+&lt;p&gt;Jonathan Li (Computer Science) completed his one year project developing machine learning tools to manage our human activity recognition data. His work finalizes our data pipeline to capture activity data, clean/label/manage the information, and evaluate novel HAR approaches.&lt;/p&gt;
 
 &lt;p&gt;Both of these works are supported by JMU CISE Faculty Development and Mini Grants.&lt;/p&gt;
 </description>
