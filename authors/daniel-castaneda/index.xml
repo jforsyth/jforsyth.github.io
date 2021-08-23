@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/authors/daniel-castaneda/</link>
       <atom:link href="http://jasonforsyth.net/authors/daniel-castaneda/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Castaneda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Sun, 06 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Daniel Castaneda</title>
       <link>http://jasonforsyth.net/authors/daniel-castaneda/</link>
     </image>
+    
+    <item>
+      <title>An ecosystem to support sense-making, identity formation, and belonging for first-year engineering students</title>
+      <link>http://jasonforsyth.net/publication/fyee2021/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/fyee2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>24for24: A Virtual Summer Bridge Program in Multiple 24-Minute Sessions for the Collegiate Class of 2024</title>
