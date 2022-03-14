@@ -5,12 +5,51 @@
     <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
       <atom:link href="http://jasonforsyth.net/categories/undergraduate-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Undergraduate Research</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Undergraduate Research</title>
       <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
     </image>
+    
+    <item>
+      <title>New Research Students. Additional Grants Awarded.</title>
+      <link>http://jasonforsyth.net/post/fall2022-update/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/fall2022-update/</guid>
+      <description>&lt;p&gt;There are many new items to report for the Wearable Computer Research group this fall semester!&lt;/p&gt;
+
+&lt;h2 id=&#34;new-undergraduate-researchers&#34;&gt;New Undergraduate Researchers&lt;/h2&gt;
+
+&lt;p&gt;With the graduation of &lt;a href=&#34;https://www.linkedin.com/in/sophiacronin/&#34;&gt;Sophia Cronin&lt;/a&gt; (Microsoft) and &lt;a href=&#34;https://www.linkedin.com/in/lijonathancj/&#34;&gt;Jonathan Li&lt;/a&gt; (Dev Technology Group) we are in need of new undergraduate researchers. We are excited to have join the research group:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Megan Caulfield (JMU Engineering &#39;24)&lt;/strong&gt;: will continue development of wearable and electronic textile solutions to provide feedback during movement correction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dawson Dolanksy (JMU Computer Science &#39;23)&lt;/strong&gt;: will focus on extending our real-time management and streaming for inertial measurement units to provide high-quality data during activity recognition and feedback.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Riley White (JMU Computer Science &#39;23)&lt;/strong&gt;: brings new capabilities in machine learning to the research group. As an already &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9680230?casa_token=DqZlsWAyBXIAAAAA:fEKznJXNyfBWqUQZv_vogGktv3e5U57LPkt3NCuuVUOwrx3h33EB1fJ_gUVB7OQ3BlRO4FUiMw&#34;&gt;peer-reviewed author&lt;/a&gt; he will develop new methods for skill estimation during physical therapy exercises.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/megan.jpeg&#34; alt=&#34;Megan Caulfield&#34; width=&#34;250&#34;&gt; Megan Caulfield&lt;/td&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/dawson.png&#34; alt=&#34;Dawson Dolanksy&#34; width=&#34;210&#34;&gt;Dawson Dolanksy&lt;/td&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/riley.jpeg&#34; alt=&#34;Riley White&#34; width=&#34;188&#34;&gt;Riley White&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;new-grants-awarded&#34;&gt;New Grants Awarded&lt;/h2&gt;
+
+&lt;p&gt;Two new grants have been awarded to support our work in &lt;a href=&#34;http://jasonforsyth.net/project/physical-therapy/&#34;&gt;physical therapy rehabilitation&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;An external 4-VA grant &amp;quot;&lt;em&gt;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&lt;/em&gt;&amp;quot; was awarded between JMU and Virginia Tech (&lt;a href=&#34;https://www.faculty.ece.vt.edu/tlmartin/&#34;&gt;Dr. Tom Martin&lt;/a&gt; Co-PI) to support prototyping efforts and travel to the &lt;a href=&#34;https://icat.vt.edu/studios.html&#34;&gt;ICAT studios&lt;/a&gt; to capture high-resolution motion capture data. A short abstract is &lt;a href=&#34;http://jasonforsyth.net/pdf/Forsyth-4VA-Short-Abstract.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An internal JMU CISE grant was awarded with &lt;a href=&#34;https://www.jmu.edu/cise/engineering/people/all-people/kirkvold-heather.shtml&#34;&gt;Dr. Heather Kirkvold&lt;/a&gt; (Co-PI) to enable textiles prototyping in the new JMU Engineering Textiles studio with undergraduate researchers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Overall, the group continues to build out its technical capabilities to prototype wearable recognition and feedback systems for physical exercises. With these new additions and funding mechanisms we expect continued growth in productivity and opportunities for our undergraduate researchers.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Promotion to Associate Professor of Engineering</title>

@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/categories/</link>
       <atom:link href="http://jasonforsyth.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Categories</title>
@@ -15,7 +15,7 @@
     <item>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/jmu/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Undergraduate Research</title>
       <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/undergraduate-research/</guid>
       <description></description>
     </item>

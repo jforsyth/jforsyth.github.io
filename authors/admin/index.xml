@@ -5,23 +5,12 @@
     <link>http://jasonforsyth.net/authors/admin/</link>
       <atom:link href="http://jasonforsyth.net/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2021</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
       <link>http://jasonforsyth.net/authors/admin/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>http://jasonforsyth.net/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/admin/</guid>
-      <description>&lt;p&gt;Welcome to Jason Forsyth’s personal website!&lt;/p&gt;
-
-&lt;p&gt;I can also be found on &lt;a href=&#34;https://scholar.google.com/citations?user=EY6SBHcAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34;&gt;Google Scholar&lt;/a&gt;. Feel free to contact me at forsy2jb {&lt;em&gt;at&lt;/em&gt;} jmu.edu. My full CV can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/Jason-Forsyth-CV.pdf&#34;&gt;here&lt;/a&gt; (Current as of 8/1/2021). Browse the pages below for recent &lt;a href=&#34;#posts&#34;&gt;news&lt;/a&gt;, &lt;a href=&#34;#biography&#34;&gt;biography&lt;/a&gt;, &lt;a href=&#34;#projects&#34;&gt;current projects&lt;/a&gt;, and &lt;a href=&#34;#publications&#34;&gt;publications&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
