@@ -1,9 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://jasonforsyth.net/categories/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,11 +59,6 @@
   
   <url>
     <loc>http://jasonforsyth.net/authors/jacquelyn-nagel/</loc>
-    <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/jason-forsyt/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -254,11 +254,6 @@
   
   <url>
     <loc>http://jasonforsyth.net/teaching/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -589,6 +584,11 @@
   
   <url>
     <loc>http://jasonforsyth.net/publication/asee-ubi/</loc>
+    <lastmod>2013-06-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/jason-forsyt/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
   </url>
   
