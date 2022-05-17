@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samy El-Tawab | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/samy-el-tawab/</link>
+      <atom:link href="http://jasonforsyth.net/authors/samy-el-tawab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samy El-Tawab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Samy El-Tawab</title>
+      <link>http://jasonforsyth.net/authors/samy-el-tawab/</link>
+    </image>
+    
+    <item>
+      <title>Convergence Across Behavioral and Self-report Measures Evaluating Individuals&#39; Trust in an Autonomous Golf Cart</title>
+      <link>http://jasonforsyth.net/publication/sieds2022/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/</link>
       <atom:link href="http://jasonforsyth.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth&#39;s Personal Website</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth&#39;s Personal Website</title>
@@ -13,19 +13,162 @@
     </image>
     
     <item>
-      <title>News</title>
-      <link>http://jasonforsyth.net/post/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/post/</guid>
+      <title>Convergence Across Behavioral and Self-report Measures Evaluating Individuals&#39; Trust in an Autonomous Golf Cart</title>
+      <link>http://jasonforsyth.net/publication/sieds2022/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publications</title>
-      <link>http://jasonforsyth.net/publication/</link>
+      <title>New Research Students. Additional Grants Awarded.</title>
+      <link>http://jasonforsyth.net/post/fall2022-update/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/fall2022-update/</guid>
+      <description>&lt;p&gt;There are many new items to report for the Wearable Computer Research group this fall semester!&lt;/p&gt;
+
+&lt;h2 id=&#34;new-undergraduate-researchers&#34;&gt;New Undergraduate Researchers&lt;/h2&gt;
+
+&lt;p&gt;With the graduation of &lt;a href=&#34;https://www.linkedin.com/in/sophiacronin/&#34;&gt;Sophia Cronin&lt;/a&gt; (Microsoft) and &lt;a href=&#34;https://www.linkedin.com/in/lijonathancj/&#34;&gt;Jonathan Li&lt;/a&gt; (Dev Technology Group) we are in need of new undergraduate researchers. We are excited to have join the research group:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Megan Caulfield (JMU Engineering &#39;24)&lt;/strong&gt;: will continue development of wearable and electronic textile solutions to provide feedback during movement correction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dawson Dolanksy (JMU Computer Science &#39;23)&lt;/strong&gt;: will focus on extending our real-time management and streaming for inertial measurement units to provide high-quality data during activity recognition and feedback.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Riley White (JMU Computer Science &#39;23)&lt;/strong&gt;: brings new capabilities in machine learning to the research group. As an already &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9680230?casa_token=DqZlsWAyBXIAAAAA:fEKznJXNyfBWqUQZv_vogGktv3e5U57LPkt3NCuuVUOwrx3h33EB1fJ_gUVB7OQ3BlRO4FUiMw&#34;&gt;peer-reviewed author&lt;/a&gt; he will develop new methods for skill estimation during physical therapy exercises.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/megan.jpeg&#34; alt=&#34;Megan Caulfield&#34; width=&#34;250&#34;&gt; Megan Caulfield&lt;/td&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/dawson.png&#34; alt=&#34;Dawson Dolanksy&#34; width=&#34;210&#34;&gt;Dawson Dolanksy&lt;/td&gt;
+  &lt;td&gt;&lt;img src=&#34;http://jasonforsyth.net/img/riley.jpeg&#34; alt=&#34;Riley White&#34; width=&#34;188&#34;&gt;Riley White&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;new-grants-awarded&#34;&gt;New Grants Awarded&lt;/h2&gt;
+
+&lt;p&gt;Two new grants have been awarded to support our work in &lt;a href=&#34;http://jasonforsyth.net/project/physical-therapy/&#34;&gt;physical therapy rehabilitation&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;An external 4-VA grant &amp;quot;&lt;em&gt;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&lt;/em&gt;&amp;quot; was awarded between JMU and Virginia Tech (&lt;a href=&#34;https://www.faculty.ece.vt.edu/tlmartin/&#34;&gt;Dr. Tom Martin&lt;/a&gt; Co-PI) to support prototyping efforts and travel to the &lt;a href=&#34;https://icat.vt.edu/studios.html&#34;&gt;ICAT studios&lt;/a&gt; to capture high-resolution motion capture data. A short abstract is &lt;a href=&#34;http://jasonforsyth.net/pdf/Forsyth-4VA-Short-Abstract.pdf&#34;&gt;available&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An internal JMU CISE grant was awarded with &lt;a href=&#34;https://www.jmu.edu/cise/engineering/people/all-people/kirkvold-heather.shtml&#34;&gt;Dr. Heather Kirkvold&lt;/a&gt; (Co-PI) to enable textiles prototyping in the new JMU Engineering Textiles studio with undergraduate researchers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Overall, the group continues to build out its technical capabilities to prototype wearable recognition and feedback systems for physical exercises. With these new additions and funding mechanisms we expect continued growth in productivity and opportunities for our undergraduate researchers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Ecosystem to Support Sense-Making, Identity Formation, and Belonging for First-Year Engineering Students</title>
+      <link>http://jasonforsyth.net/publication/fyee2021/</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/publication/</guid>
+      <guid>http://jasonforsyth.net/publication/fyee2021/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Amateur Performance in Athletic Tests Using Wearable Sensors</title>
+      <link>http://jasonforsyth.net/publication/sieds2021/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promotion to Associate Professor of Engineering</title>
+      <link>http://jasonforsyth.net/post/promotion/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/promotion/</guid>
+      <description>&lt;p&gt;Based upon action by the JMU Board of Visitors on April 16th I have been promoted to Associate Professor of Engineering effective August 25th, 2021.&lt;/p&gt;
+
+&lt;p&gt;I greatly appreciate the guidance and support from my JMU Engineering colleagues over the last three years. Furthermore, a great debt is owed to the &lt;a href=&#34;https://www.jasonforsyth.net/categories/undergraduate-research/&#34;&gt;undergraduate researchers&lt;/a&gt; in the Wearable Computing Lab for this milestone. I thank you all.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/office-door.png&#34; alt=&#34;At least the door change is effective immediately.&#34; title=&#34;At least the door change is effective immediately.&#34;&gt;&lt;figcaption&gt;At least the door change is effective immediately.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Research Short: Wearable Computing for Physical Rehabilitation</title>
+      <link>http://jasonforsyth.net/publication/capwic-2021/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/capwic-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Computing Lab Researchers Present at Several Conferences</title>
+      <link>http://jasonforsyth.net/post/ieee-capwic-2021/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/ieee-capwic-2021/</guid>
+      <description>&lt;p&gt;Despite the pandemic, Spring 2021 has been a productive time for the undergraduate researchers in the Wearable Computing Lab.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/stephen-ieee-conf.png&#34; alt=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34; title=&#34;Stephen Mitchell presents his work at IEEE SouthEast Conference&#34;&gt;&lt;figcaption&gt;Stephen Mitchell presents his work at IEEE SouthEast Conference&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Stephen Mitchell has presented his latest work at IEEE SouthEast Conference. This &lt;a href=&#34;http://jasonforsyth.net/pdf/MitchellS-T7S2-ieee-ready.pdf&#34;&gt;short paper&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/Mitchell-IEEE-Presentation.pdf&#34;&gt;presentation&lt;/a&gt; is an extension of his previous work that was presented at &lt;a href=&#34;http://jasonforsyth.net/post/marcus2019&#34;&gt;MARCUS 2019&lt;/a&gt;. Additional analysis is on-going and has been accepted as publication for a &lt;a href=&#34;http://jasonforsyth.net/pdf/mitchell-sieds-camera-ready.pdf&#34;&gt;full paper&lt;/a&gt; at &lt;a href=&#34;https://engineering.virginia.edu/departments/engineering-systems-and-environment/academics/ieee-sieds&#34;&gt;SIEDS 2021&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sophia-tyler-capwic.png&#34; alt=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34; title=&#34;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&#34;&gt;&lt;figcaption&gt;Sophia Cronin and Tyler Webster present at ACM CAPWIC 2021&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Sophia Cronin and Tyler Webster also presented their work on wearable haptic and visual feedback systems for physical therapy rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Their &lt;a href=&#34;http://jasonforsyth.net/pdf/capwic-2021-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/cronin-webster-capwic-2021-presentation.pdf&#34;&gt;presentation&lt;/a&gt; are available.&lt;/p&gt;
+
+&lt;p&gt;Jonathan Li (Computer Science) completed his one year project developing machine learning tools to manage our human activity recognition data. His work finalizes our data pipeline to capture activity data, clean/label/manage the information, and evaluate novel HAR approaches.&lt;/p&gt;
+
+&lt;p&gt;Both of these works are supported by JMU CISE Faculty Development and Mini Grants.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assessing Athletic Performance with a Wearable Inertial Measurement Unit</title>
+      <link>http://jasonforsyth.net/publication/ieee-se-2021/</link>
+      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/ieee-se-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>24for24: A Virtual Summer Bridge Program in Multiple 24-Minute Sessions for the Collegiate Class of 2024</title>
+      <link>http://jasonforsyth.net/publication/econf/</link>
+      <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/econf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Perceptions of Disciplines Using Arts-informed Methods</title>
+      <link>http://jasonforsyth.net/publication/asee2020/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Informal versus School-Based Field Experience on Elementary Pre-service Teachers&#39; Self-Efficacy for Teaching Science</title>
+      <link>http://jasonforsyth.net/publication/narst/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/narst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Crop Health in Vineyards Through a Multispectral Imaging and Drone System</title>
+      <link>http://jasonforsyth.net/publication/sieds2020/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Researcher Presents at MARCUS 2019</title>
+      <link>http://jasonforsyth.net/post/marcus2019/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/marcus2019/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/stephen-mitchell-marcus.jpg&#34; alt=&#34;Stephen Mitchell at MARCUS 2019&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Sophomore JMU Engineering student and undergraduate researcher in the Wearable Computing Group, Stephen Mitchell, presented his initial research on measuring athlete performance at the 2019 Mid-Atlantic Regional Conference on Undergraduate Scholarship (MARCUS) at Randolph College. His work examines using low-cost inertial measurement units (IMU) to calculate an athletic performance measure called the &amp;quot;Drop Jump Ratio&amp;quot;. These IMUs are low-cost, light weight, and more mobile than traditional force plates used to calculate the drop jump ratio.
+More information can be found in his &lt;a href=&#34;http://jasonforsyth.net/pdf/mitchell-marcus-abstract.pdf&#34;&gt;abstract&lt;/a&gt; and &lt;a href=&#34;http://jasonforsyth.net/pdf/mitchell-marcus-poster.pdf&#34;&gt;poster&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stephen&#39;s work is supported through collaborations with &lt;a href=&#34;http://www.bucknell.edu/fac-staff/stu-thompson&#34;&gt;Dr. Stu Thompson&lt;/a&gt; in the Department of Electrical and Computer Engineering at Bucknell University and &lt;a href=&#34;https://www.jmu.edu/biology/people/current-people/faculty/faculty-wunderlich.shtml&#34;&gt;Dr. Rosha Wunderlich&lt;/a&gt; in the Department of Biology at JMU.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -169,26 +312,555 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>http://jasonforsyth.net/project/</link>
+      <title>EduGit: Toward a Platform for Publishing and Adopting Course Content</title>
+      <link>http://jasonforsyth.net/publication/edugit/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/edugit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engagement in Practice: Engaging with the Community One Bike at a Time</title>
+      <link>http://jasonforsyth.net/publication/asee2019jmu/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee2019jmu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students</title>
+      <link>http://jasonforsyth.net/publication/asee2019ycp/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee2019ycp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications at ASEE 2019 and Election to Program Chair</title>
+      <link>http://jasonforsyth.net/post/asee2019/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/asee2019/</guid>
+      <description>&lt;p&gt;I am co-author on two papers this year at ASEE. The first, a collaboration with my JMU colleagues on our sophomore engineering design course that creates human-powered vehicles for persons with limited mobility. Our paper “Engagement in Practice: Engaging with the Community One Bike at a Time” can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/engagement-in-practice-engaging-with-the-community-one-bike-at-a-time.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second paper reports on previous work at York College with our freshman engineering experience and the results of a new integrative activity to cover electrical and computer engineering topics. Our paper “A Seven-week Module to Introduce Electrical and Computer Engineering to Freshmen Engineering Students ” can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/a-seven-week-module-to-introduce-electrical-and-computer-engineering-to-freshmen-engineering-students.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, I have been elected as the Program Chair for the ASEE
+Entrepreneurship and Engineering Innovation division. I’m looking forward to reading all the abstracts and papers for the 2020 program in Montreal!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Researcher Presents at ACM CAPWIC</title>
+      <link>http://jasonforsyth.net/post/capwic/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/capwic/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sanarea-ali-capwic.jpg&#34; alt=&#34;Sanarea Ali at CAPWIC 2019&#34; title=&#34;Sanarea Ali at CAPWIC 2019&#34;&gt;&lt;figcaption&gt;Sanarea Ali at CAPWIC 2019&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;JMU Engineering student, Sanarea Ali, gave a flash talk on her proposed wearable computing system for physical rehabilitation at the ACM Capital Region Celebration of Women in Computing (CAPWIC). Her research examines how wearable computing can support clinicians in understanding patient injuries and improving their recovery. The abstract of her talk is included &lt;a href=&#34;http://jasonforsyth.net/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Smart Sensor Network for an Automated Urban Greenhouse</title>
+      <link>http://jasonforsyth.net/publication/icrest/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/icrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Computing for Physical Therapy</title>
+      <link>http://jasonforsyth.net/project/physical-therapy/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/project/</guid>
+      <guid>http://jasonforsyth.net/project/physical-therapy/</guid>
+      <description>&lt;p&gt;The project will develop a novel wearable computing system for use in physical therapy and rehabilitation
+exercises. Often patients undergoing physical therapy are prescribed a set of stretches and exercises to
+strengthen an injured muscle group. While outside of the doctor’s office, the physical therapist cannot
+observe if the activities are being performed correctly or if at all. Wearable computing solutions have
+been developed that will allow human activities to be recognized. However, current approaches are
+limited to specific arm and leg motions and not the broader set of activities that would be required in a
+general tool usable by medical practitioners. The project would leverage existing machine learning and
+human-computer interaction techniques to develop a custom wearable computing system tailored to
+rehabilitation exercises of a particular patient. This system would create positive patient outcomes by
+providing feedback to the patient and the physical therapist about the quantity and quality of therapy
+activities performed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Megan Caulfield, Jason Forsyth &amp;ldquo;Student Research Short: Wearable Computing for Physical Rehabilitation&amp;rdquo;, &lt;em&gt;accepted for presentation at&lt;/em&gt; 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) &lt;a href=&#34;http://jasonforsyth.net/post/ieee-capwic-2021/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), H. Kirkvold (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $3,900. Fall 2021&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;4-VA  Grant: J. Forsyth (PI), T. Martin (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $5,000. Fall 2021&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Service Learning</title>
+      <link>http://jasonforsyth.net/project/service-learning/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/project/service-learning/</guid>
+      <description>&lt;p&gt;Because pervasive computing systems deal intimately with human needs and interactions, they must be envisioned and developed by interdisciplinary teams that not only understand the technological challenges, but the human ones as well. Crucial to this design process is ensuring these teams are effective and well-functioning. Specifically, it is important that all participants understand the abilities of team members from other disciplines. In earlier work I examined how prototyping exercises helped clarify project goals and establish a disciplinary rapport within teams. More recently I have studied the motivations of capstone design teams. In particular, we have compared the attitudes and experiences of students working on traditional, single discipline projects, such as design of off-road and race cars, as compared to students working in a more interdisciplinary setting designing a smart greenhouse for a local elementary school and assistive technologies for persons with mental and physical disabilities. Looking at these two populations, we found that students who participated in the more interdisciplinary and service-oriented projects felt more personal satisfaction in their engineering work than their peers on the single discipline projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Kala Meah, &lt;strong&gt;Jason Forsyth&lt;/strong&gt;, James Moscola, “A Smart Sensor Network for an Automated Urban Greenhouse”, 2019 International Conference on Robotics, Electrical and Signal Progressing Techniques (ICREST), Dhaka, Bangladesh, January 10-12, 2019 &lt;a href=&#34;http://jasonforsyth.net/publication/icrest/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Mark Budnik, Randi Shedlosky, Jeff Will, “Effects of Service-Learning Projects on Capstone Student Motivation”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Salt Lake City, Utah, June 24-27, 2018 &lt;a href=&#34;http://jasonforsyth.net/publication/asee2018multi/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Benefits and Challenges Transitioning to Community Service Multidisciplinary Capstone Projects”, Proceedings of the American Society of Engineering Education Annual Conference – Multidisciplinary Engineering Division, Columbus, Ohio, June 25-28, 2017 &lt;a href=&#34;http://jasonforsyth.net/publication/greenhouse/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson, “Developing an Automated Greenhouse at Alexander D. Goode Elementary School to Serve as a Living Laboratory for Science Education”, $9,746 over 12 months from the York County Community Foundation. Proposal supports research and capital expenses related to the automated greenhouse capstone project. Awarded 1/1/2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jason Forsyth&lt;/strong&gt;, Nicole Hesson; “Addressing Economic and Educational Disadvantages in York City through Engineering Design Projects”, $17,000 over 12 months from the Office of the President. Proposal supports research investigating the impact of service-based multidisciplinary projects on engineering students, faculty, and community partners. Also, provides material support for capstone projects to develop an automated greenhouse, assistive technologies, and targeted curricula for K-8 students. Awarded: 3/24/2016&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effects of Service-Learning Projects on Capstone Student Motivation</title>
+      <link>http://jasonforsyth.net/publication/asee2018multi/</link>
+      <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee2018multi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
+      <title>Joining JMU Engineering Faculty</title>
+      <link>http://jasonforsyth.net/post/joinjmu/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/joinjmu/</guid>
+      <description>&lt;p&gt;I am happy to announce that I will be joining the Department of Engineering at James Madison University starting Fall 2018. I am excited to work with my new colleagues and develop new bridges between engineering, computer science, and other interdisciplinary programs at JMU.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications at ASEE 2018</title>
+      <link>http://jasonforsyth.net/post/asee2018/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/asee2018/</guid>
+      <description>&lt;p&gt;Our paper “Effects of Service-Learning Projects on Capstone Student Motivation” has been accepted into the Multidisciplinary Engineering Division for ASEE 2018. Co-authors are Dr. Mark Budnik (Valparaiso), Dr. Randi Shedlosky (YCP), and Dr. Jeff Will (Valparaiso). The paper examines student motivation differences in service and non-service capstone projects. A pre-print of the paper can be found &lt;a href=&#34;http://jasonforsyth.net/pdf/ASEE-Multi-Pre-print-2018.pdf&#34;&gt;here&lt;/a&gt; and and the presentation slides &lt;a href=&#34;http://jasonforsyth.net/pdf/ASEE-Multi-2018-Presentation.pdf&#34;&gt;here&lt;/a&gt;. The abstract in included below:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Many engineering programs incorporate project-based, service learning into traditional classes and capstone experience. These projects focus on service-related challenges that impact the local, national, or international community and could be described as “humanitarian” or “for the greater good”. While these projects have shown positive benefits for recruitment, retention, and student diversity, what has been unexamined is whether student motivations in the projects differ from their peers in more traditional capstone projects. We hypothesize that students in service-oriented capstone projects may feel greater motivation and engagement with their project due to its service components as compared to their peers in other capstone projects.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We address this question by examining the experiences of capstone students at two different institutions. York College of Pennsylvania and Valparasio are both small, comprehensive, private universities with engineering programs that engage in a variety of capstone projects. At each institution we administered surveys with capstone students to assess their interests, motivations, and engagement in their capstone projects. By comparing student responses and evaluating the level of service that each project embodies, we can assess whether students in differing projects show different motivations. Our results provide insights into methods for maintaining student success in capstone projects and for selecting future projects.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Largest Tech Tinker K-12 Outreach</title>
+      <link>http://jasonforsyth.net/post/tech-tinker/</link>
+      <pubDate>Tue, 12 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/tech-tinker/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;flier.png&#34; alt=&#34;&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Last Thursday was the largest evening ever for Tech Tinker! Thank you to all the YCP students and faculty who attended. Circuits, drones, 3-D printed heads, and physics experiments, it was great fun!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker1.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker1_hu35c4f11551005627bba3518faa1ddbce_1419271_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker2.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker2_hu54301bb112561248ab0dc39646d238e8_1527087_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker3.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker3_hubbab34288f378d5268784d174a46e390_1444933_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker4.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker4_hu0276b01a351010d03dea3699efeae58e_1467556_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker5.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker5_hu6b368fa5ff618e00e1cc2ec6cbd2ab15_1437902_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+        
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker6.jpg&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/tech-tinker/gallery/techtinker6_hue42a57a18e8b5e6224aba2801cd539e9_1318901_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Student Project using Robotic Operating System (ROS) for Undergraduate Research</title>
+      <link>http://jasonforsyth.net/publication/ros-student/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/ros-student/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>http://jasonforsyth.net/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/talk/</guid>
+      <title>Benefits and Challenges of Transitioning to Community Service Multidisciplinary Capstone Projects</title>
+      <link>http://jasonforsyth.net/publication/greenhouse/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/greenhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Based Learning Using the Robotic Operating System (ROS) for Undergraduate Research Applications</title>
+      <link>http://jasonforsyth.net/publication/ros-ycp/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/ros-ycp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>York County Community Foundation Grant Awarded</title>
+      <link>http://jasonforsyth.net/post/yccf/</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/yccf/</guid>
+      <description>&lt;p&gt;Dr. Nicole Hesson and I received a grant from the York County Community Foundation to support our work with project-based service learning and capstone teams. The grant will support a student researcher for the project and capital costs for the Goode School Automated Greenhouse designed by YCP Engineering students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The design of smart garments for motion capture and activity classification</title>
+      <link>http://jasonforsyth.net/publication/wearablesbook/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/wearablesbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Girlz Outreach at Martin Library</title>
+      <link>http://jasonforsyth.net/post/techgirlz/</link>
+      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/techgirlz/</guid>
+      <description>&lt;p&gt;Tech Girlz, a STEM outreach for middle school girls, was a great success this weekend. YCP students help works on photo editing in GIMP, physical computing with Arduino, and electronic circuits with LittleBits. Thanks to the YCP students, Martin Library, and United Fiber and Data. Read the &lt;a href=&#34;York-TechGirlz-Workshop-Introduces-Girls-to-Tech-Opportunities-Gigabit-Revolution.pdf&#34;&gt;press release&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz1.jpg&#34; &gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz1_hu6e46e3926b0677923075e7ebdcc8cabb_88854_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz2.jpg&#34; &gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz2_huc987addd09cb5ac36bcab37177249dd5_126965_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz3.jpg&#34; &gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz3_hub62299ee1189cde13cb172baecdf614a_122834_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz4.jpg&#34; &gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz4_hue347284dd805453bde2b0b550c98e732_134702_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+      
+    
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz5.jpg&#34; &gt;
+  &lt;img src=&#34;http://jasonforsyth.net/post/techgirlz/gallery/TechGirlz5_hu38c203174c0ab11a3b2d37202e2c37f4_1331068_0x190_resize_q90_lanczos.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Great to Greater Grant Awarded</title>
+      <link>http://jasonforsyth.net/post/greattogreater/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/greattogreater/</guid>
+      <description>&lt;p&gt;Dr. Nicole Hesson (Education) and I have received a Great to Greater Grant from the Office of the President to engage engineering and education students in community-based service projects. Grant funds will go towards two new capstone projects: an automated greenhouse at Goode School in York City, and assistive technologies for employees with mental and physical difficulties at Shadowfax Corp. Education students will support the project by creating custom science curriculum for teachers at Goode to support the greenhouse.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploring Electronic Storyboards as Interdisciplinary Design Tools for Pervasive Computing</title>
+      <link>http://jasonforsyth.net/publication/dissertation/</link>
+      <pubDate>Tue, 09 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pervasive Computing Prototyping Tools</title>
+      <link>http://jasonforsyth.net/project/pervasive-computing/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/project/pervasive-computing/</guid>
+      <description>&lt;p&gt;Interdisciplinary design tools facilitate collaboration between engineering and design practitioners to ensure that pervasive products and services are aesthetically pleasing and technologically feasible. From our research with interdisciplinary teams, we found that a shared vocabulary and understanding of design constraints is critical for effective interdisciplinary collaboration. This requires prototyping tools to be accessible across disciplines but sufficiently powerful to develop a working system. Using our technique of electronic storyboards, design teams can electronically “sketch” how a pervasive system should behave and automatically synthesize behavioral descriptions of that system as source code, textual descriptions, and state charts. Descriptions are generated by analyzing storyboard layout, user-applied annotations, and natural language processing of text in the storyboard. During synthesis the electronic storyboard will query the design team to resolve missing or ambiguous information.&lt;/p&gt;
+
+&lt;p&gt;The descriptions produced by the electronic storyboard, and the tool queries during synthesis, serve as a reflection point for teams to understand if they have properly described their prototype. Storyboard synthesis is quick, taking less than one minute, and enables teams to focus on what a device “should” do, rather than how it is implemented. In a time constrained environment, rapid prototyping tools like electronic storyboards can facilitate better design outcomes by evaluating more prototypes over time. Initial results show this tool is usable by interdisciplinary teams, helps teams evaluate their design, and aids participants in understanding computational properties of the storyboarded systems.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, “Extracting Behavioral Information from Electronic Storyboards”, Proceedings of the 6th ACM SIGCHI Symposium on Engineering Interactive Computer Systems, Rome, Italy, June 17-20, 2014 (18% acceptance rate) &lt;a href=&#34;http://jasonforsyth.net/publication/eics/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, “Tools for Interdisciplinary Design of Pervasive Computing”,International Journal of Pervasive Computing and Communications, vol. 8, no. 2, pp. 112-132, June 2012 (Invited Survey) &lt;a href=&#34;http://jasonforsyth.net/publication/ipjcc/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, “Using Electronic Storyboards to Support Interdisciplinary Design of Pervasive Computing Systems”, Poster Presentation for the Sixth Annual Ph.D. Forum on Pervasive Computing and Communications (PerCom), San Diego, March 20th, 2013&lt;/p&gt;
+
+&lt;p&gt;Ed Dorsa, Eloise Coupey, Tom Martin, Lisa McNair, Jason Forsyth, Sophie Kim, “Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product”, Industrial Design Society of America Education Symposium, August 2012 &lt;a href=&#34;http://jasonforsyth.net/publication/idsa&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;
+Tom Martin (PI), Jason Forsyth, Christian James, “Storycoding I-Corps Team”, National Science Foundation. Award Date: 4/1/2015. Amount: $50,000. &lt;a href=&#34;http://www.nsf.gov/awardsearch/showAward?AWD_ID=1535818&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Feasibility of GPS-based Warning System for Roadside Workers</title>
+      <link>http://jasonforsyth.net/publication/iccv/</link>
+      <pubDate>Mon, 03 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/iccv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engaging Middle School Students in SEAD Learning Through Smart Product Design</title>
+      <link>http://jasonforsyth.net/publication/fablab/</link>
+      <pubDate>Sat, 25 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/fablab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Safety Systems</title>
+      <link>http://jasonforsyth.net/project/wearable-safety/</link>
+      <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/project/wearable-safety/</guid>
+      <description>&lt;p&gt;Wearable safety devices provide continuous monitoring and sensing to protect human life. Safety-critical pervasive systems are challenging to develop as these systems must be easy to use while providing the user with reliable and timely warnings. Examining the hazards faced by construction workers, many are at risk of carbon monoxide poisoning when working with gasoline powered tools in or around enclosed spaces. To address this problem, we integrated a pulse oximetry sensor into the headband of a typical construction helmet to non-invasively measure blood gas concentrations. Based upon our reliability analysis the integrated sensor can warn the worker of impending carbon monoxide poisoning with 99% reliability. This work was the first to address reliability of wearable pulse oximetry during motion and has been recognized by IEEE Transactions on Automation Science and Engineering as the best paper of 2012. Building on this work, we have developed a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;http://jasonforsyth.net/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;http://jasonforsyth.net/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (33% acceptance rate). &lt;a href=&#34;http://jasonforsyth.net/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extracting Behavioral Information from Electronic Storyboards</title>
+      <link>http://jasonforsyth.net/publication/eics/</link>
+      <pubDate>Tue, 17 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/eics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interdisciplinary Pedagogy for Pervasive Computing Design Processes: An Evaluative Analysis</title>
+      <link>http://jasonforsyth.net/publication/asee-ubi/</link>
+      <pubDate>Tue, 11 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/asee-ubi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Form, Function and Performances in a Musical Instrument MAKErs Camp</title>
+      <link>http://jasonforsyth.net/publication/sigcse/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sigcse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discipline-Based Instruction to Promote Interdisciplinary Design of Wearable and Pervasive Computing Products</title>
+      <link>http://jasonforsyth.net/publication/puc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/puc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Thinking Meets Computational Thinking – An Interdisciplinary Exercise in Developing Smart Product</title>
+      <link>http://jasonforsyth.net/publication/idsa/</link>
+      <pubDate>Sat, 11 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/idsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning</title>
+      <link>http://jasonforsyth.net/publication/tase-journal/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/tase-journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools for Interdisciplinary Design of Pervasive Computing</title>
+      <link>http://jasonforsyth.net/publication/ipjcc/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/ipjcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Design Course for Pervasive Computing</title>
+      <link>http://jasonforsyth.net/publication/ieee-per/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/ieee-per/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Interdisciplinary Undergraduate Design Course for Wearable and Pervasive Computing Products</title>
+      <link>http://jasonforsyth.net/publication/iswc-2011/</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/iswc-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers</title>
+      <link>http://jasonforsyth.net/publication/percom/</link>
+      <pubDate>Mon, 21 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/percom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wearable Pulse Oximetry in Construction Environments</title>
+      <link>http://jasonforsyth.net/publication/thesis/</link>
+      <pubDate>Mon, 29 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/thesis/</guid>
       <description></description>
     </item>
     
