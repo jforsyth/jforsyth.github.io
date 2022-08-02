@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahib Younes | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/rahib-younes/</link>
+      <atom:link href="http://jasonforsyth.net/authors/rahib-younes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rahib Younes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sun, 14 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Rahib Younes</title>
+      <link>http://jasonforsyth.net/authors/rahib-younes/</link>
+    </image>
+    
+    <item>
+      <title>ResNet-like CNN Architecture and Saliency Map for Human Activity Recognition</title>
+      <link>http://jasonforsyth.net/publication/mobicase2021/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/mobicase2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
