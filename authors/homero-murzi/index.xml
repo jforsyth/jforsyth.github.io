@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/authors/homero-murzi/</link>
       <atom:link href="http://jasonforsyth.net/authors/homero-murzi/index.xml" rel="self" type="application/rss+xml" />
     <description>Homero Murzi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Homero Murzi</title>
       <link>http://jasonforsyth.net/authors/homero-murzi/</link>
     </image>
+    
+    <item>
+      <title>WIP: Developing an arts-informed approach to understand students’ perceptions of engineering</title>
+      <link>http://jasonforsyth.net/publication/fie2022-wip/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/fie2022-wip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploring Perceptions of Disciplines Using Arts-informed Methods</title>

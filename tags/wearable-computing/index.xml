@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/tags/wearable-computing/</link>
       <atom:link href="http://jasonforsyth.net/tags/wearable-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>wearable computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>wearable computing</title>
@@ -28,27 +28,32 @@ human-computer interaction techniques to develop a custom wearable computing sys
 rehabilitation exercises of a particular patient. This system would create positive patient outcomes by
 providing feedback to the patient and the physical therapist about the quantity and quality of therapy
 activities performed.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Megan Caulfield, Jason Forsyth &amp;ldquo;Student Research Short: Wearable Computing for Physical Rehabilitation&amp;rdquo;, &lt;em&gt;accepted for presentation at&lt;/em&gt; 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) &lt;a href=&#34;http://jasonforsyth.net/post/ieee-capwic-2021/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Megan Caulfield, Jason Forsyth &amp;ldquo;Student Research Short: Wearable Computing for Physical Rehabilitation&amp;rdquo;, &lt;em&gt;accepted for presentation at&lt;/em&gt; 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sophia Cronin, Tyler Webster, Jason Forsyth “Student Research Short: Wearable Computing for Physical Rehabilitation”, Presentation at 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract) &lt;a href=&#34;http://jasonforsyth.net/post/ieee-capwic-2021/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sanarea Ali, “Wearable Computing for Physical Rehabilitation”, at the 2019 ACM Capital Region Celebration of Women in Computing Conference (CAPWIC), March 23rd, 2019 &lt;a href=&#34;http://jasonforsyth.net/post/capwic/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;&lt;strong&gt;Funding for the work:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), H. Kirkvold (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $3,900. Fall 2021&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;4-VA  Grant: J. Forsyth (PI), T. Martin (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $5,000. Fall 2021&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), H. Kirkvold (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $3,900. Fall 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;4-VA  Grant: J. Forsyth (PI), T. Martin (Co-PI), &amp;ldquo;Designing Wearable Systems for Movement Correction in Physical Therapy Applications&amp;rdquo;, $5,000. Fall 2021&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JMU CISE Mini Grant: J. Forsyth,“Prototyping Wearables for Physical Therapy”. $700. Spring 2021.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JMU CISE Faculty Development Grant: J. Forsyth (PI), M. Stewart (Co-PI), “A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises”. $2,500. Spring 2019.&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -59,13 +64,9 @@ activities performed.&lt;/p&gt;
       <pubDate>Wed, 15 Oct 2014 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/project/wearable-safety/</guid>
       <description>&lt;p&gt;Wearable safety devices provide continuous monitoring and sensing to protect human life. Safety-critical pervasive systems are challenging to develop as these systems must be easy to use while providing the user with reliable and timely warnings. Examining the hazards faced by construction workers, many are at risk of carbon monoxide poisoning when working with gasoline powered tools in or around enclosed spaces. To address this problem, we integrated a pulse oximetry sensor into the headband of a typical construction helmet to non-invasively measure blood gas concentrations. Based upon our reliability analysis the integrated sensor can warn the worker of impending carbon monoxide poisoning with 99% reliability. This work was the first to address reliability of wearable pulse oximetry during motion and has been recognized by IEEE Transactions on Automation Science and Engineering as the best paper of 2012. Building on this work, we have developed a warning system for road-side workers and emergency personnel to estimate potential vehicle strikes.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Publications from this work:&lt;/strong&gt;&lt;/p&gt;
-
 &lt;p&gt;Jason Forsyth, Tom Martin, Deborah Young-Corbett, Ed Dorsa, “Feasibility of Intelligent Monitoring of Construction Workers for Carbon Monoxide Poisoning”, IEEE Trans. on Automation Science and Engineering, Volume 9, Issue 3, pp. 505-515, July 2012 (16% acceptance rate) (2012 Best Paper Award) &lt;a href=&#34;http://jasonforsyth.net/publication/tase-journal/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;J. Forsyth, T.L. Martin, D. Young-Corbett, E. Dorsa; “Feasibility Study of a Wearable Carbon Monoxide Warning System for Construction Workers,” 2011 IEEE International Conference on Pervasive Computing and Communications (PerCom),  Seattle, WA, March 21-25 2011, pp.28-36 (11% of 156 accepted as long papers) &lt;a href=&#34;http://jasonforsyth.net/publication/percom/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;Jason Forsyth, Tom Martin, Darrell Bowman, “Feasibility of GPS-based Warning System for Roadside Workers”, International Conference on Connected Vehicles and Expo, November 3-7, 2014, Vienna, Austria (33% acceptance rate). &lt;a href=&#34;http://jasonforsyth.net/publication/iccv/&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

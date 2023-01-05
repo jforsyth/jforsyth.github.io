@@ -1,11 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://jasonforsyth.net/publication_types/1/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/diana-franco-duran/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/homero-murzi/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/jason-forsyt/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/karen-martinez-soto/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/lisa-schibelius/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/authors/matthew-james/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication_types/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/publication/fie2022-wip/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -16,48 +70,16 @@
   <url>
     <loc>http://jasonforsyth.net/authors/alan-cheville/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/jason-forsyth/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/michael-s.-thompson/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication_types/</loc>
-    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/publication/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/addison-b.-bright/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -68,49 +90,41 @@
   <url>
     <loc>http://jasonforsyth.net/authors/emily-h.-ohear/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/jenna-e.-cotter/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/nathan-l.-tenhundfeld/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/nathan-r.-sprague/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/r.-cooper-smitherman/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/samy-el-tawab/</loc>
     <lastmod>2022-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/categories/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/categories/jmu/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -126,13 +140,11 @@
   <url>
     <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/rahib-younes/</loc>
     <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -143,7 +155,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/zixuan-yan/</loc>
     <lastmod>2021-11-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -154,49 +165,41 @@
   <url>
     <loc>http://jasonforsyth.net/authors/callie-miller/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/daniel-castaneda/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/jacquelyn-nagel/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/justin-henriques/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/kurt-patterson/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/kyle-gipson/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/robert-nagel/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/shraddha-joshi/</loc>
     <lastmod>2021-08-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -207,7 +210,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/stephen-mitchell/</loc>
     <lastmod>2021-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -218,13 +220,11 @@
   <url>
     <loc>http://jasonforsyth.net/publication_types/0/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/sophia-cronin/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -235,13 +235,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/tyler-webster/</loc>
     <lastmod>2021-03-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/categories/wearable-computing/</loc>
     <lastmod>2021-03-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -262,7 +260,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/kurt-paterson/</loc>
     <lastmod>2020-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -271,27 +268,13 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/authors/homero-murzi/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/authors/lilianny-virguez/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/authors/matthew-james/</loc>
-    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/pamela-l.-dickrell/</loc>
     <lastmod>2020-06-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -302,7 +285,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/nicole-hesson/</loc>
     <lastmod>2020-05-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -313,49 +295,41 @@
   <url>
     <loc>http://jasonforsyth.net/authors/brian-schieber/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/dominic-coradazzi/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/ernest-benner/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/isaac-miller/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/jacob-ortiz/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/justyn-girdner/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/parth-patel/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/zachary-debey/</loc>
     <lastmod>2020-04-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -369,6 +343,11 @@
   </url>
   
   <url>
+    <loc>http://jasonforsyth.net/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jasonforsyth.net/publication/edugit/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
@@ -376,13 +355,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/michael-stewart/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/zamwua-nasrawt/</loc>
     <lastmod>2019-07-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -393,7 +370,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/kyle-gibson/</loc>
     <lastmod>2019-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -404,31 +380,26 @@
   <url>
     <loc>http://jasonforsyth.net/categories/asee/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/eleanor-leung/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/james-kearns/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/james-moscola/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/kala-meah/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -449,13 +420,21 @@
   <url>
     <loc>http://jasonforsyth.net/project/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/tags/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/tags/undergraduate-research/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/tags/wearable-computing/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -464,15 +443,8 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/tags/undergraduate-research/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/tags/wearable-computing/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://jasonforsyth.net/tags/capstone/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -481,21 +453,13 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/tags/capstone/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/tags/engineering-education/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/tags/service-learning/</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -506,19 +470,16 @@
   <url>
     <loc>http://jasonforsyth.net/authors/jeff-will/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/mark-budnik/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/randi-shedlosky/</loc>
     <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -534,7 +495,6 @@
   <url>
     <loc>http://jasonforsyth.net/categories/community-outreach/</loc>
     <lastmod>2017-09-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -555,25 +515,21 @@
   <url>
     <loc>http://jasonforsyth.net/authors/cara-sperbeck/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/christopher-korpela/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/matthew-jones/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/patrick-lynn/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -584,13 +540,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/stephen-wilkerson/</loc>
     <lastmod>2017-06-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/categories/capstone/</loc>
     <lastmod>2017-01-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -601,31 +555,26 @@
   <url>
     <loc>http://jasonforsyth.net/publication_types/6/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/jacob-dennis/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/kristen-hines/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/mark-jones/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/rabih-younes/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -636,7 +585,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/tom-martin/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -652,7 +600,6 @@
   <url>
     <loc>http://jasonforsyth.net/publication_types/4/</loc>
     <lastmod>2015-06-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -661,32 +608,28 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/project/pervasive-computing/</loc>
-    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/tags/interdisciplinary-design/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/tags/pervasive-computing/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/project/pervasive-computing/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/tags/ubiquitous-computing/</loc>
     <lastmod>2015-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/darrell-bowman/</loc>
     <lastmod>2014-11-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -702,13 +645,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/jamie-simmons/</loc>
     <lastmod>2014-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/liesl-baum/</loc>
     <lastmod>2014-10-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -724,13 +665,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/ed-dorsa/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/eloise-coupey/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -739,45 +678,33 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/authors/jason-forsyt/</loc>
-    <lastmod>2013-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/authors/kahun-kim/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/lisa-mcnair/</loc>
     <lastmod>2013-06-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/benjamin-knapp/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/blake-sawyer/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/brennon-bortz/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/dane-webster/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -788,25 +715,21 @@
   <url>
     <loc>http://jasonforsyth.net/authors/ico-bukvic/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/taylor-oconnor/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/teri-finn/</loc>
     <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/publication_types/2/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -817,7 +740,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/kahyun-kim/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -828,13 +750,11 @@
   <url>
     <loc>http://jasonforsyth.net/authors/sophie-kim/</loc>
     <lastmod>2012-08-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jasonforsyth.net/authors/deborah-young-corbett/</loc>
     <lastmod>2012-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -855,7 +775,6 @@
   <url>
     <loc>http://jasonforsyth.net/authors/ron-kemnitzer/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

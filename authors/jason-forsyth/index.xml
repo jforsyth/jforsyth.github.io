@@ -5,12 +5,20 @@
     <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
       <atom:link href="http://jasonforsyth.net/authors/jason-forsyth/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2022</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth</title>
       <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
     </image>
+    
+    <item>
+      <title>WIP: Developing an arts-informed approach to understand students’ perceptions of engineering</title>
+      <link>http://jasonforsyth.net/publication/fie2022-wip/</link>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/fie2022-wip/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Addressing Convergent Problems with Entrepreneurially-Minded Learning</title>
