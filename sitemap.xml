@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jasonforsyth.net/post/fall2022-update/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/jmu/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
+    <lastmod>2022-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jasonforsyth.net/publication_types/1/</loc>
     <lastmod>2022-10-11T00:00:00+00:00</lastmod>
   </url>
@@ -118,27 +143,7 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/categories/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/jmu/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/post/fall2022-update/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/post/</loc>
-    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
+    <loc>http://jasonforsyth.net/post/fall2021-update/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
   
