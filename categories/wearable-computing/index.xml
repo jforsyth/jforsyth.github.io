@@ -5,12 +5,31 @@
     <link>http://jasonforsyth.net/categories/wearable-computing/</link>
       <atom:link href="http://jasonforsyth.net/categories/wearable-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Wearable Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Wearable Computing</title>
       <link>http://jasonforsyth.net/categories/wearable-computing/</link>
     </image>
+    
+    <item>
+      <title>Students Present Wearables Research at NCUR 2023</title>
+      <link>http://jasonforsyth.net/post/ncur2023/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/ncur2023/</guid>
+      <description>&lt;p&gt;Megan Caulfield (JMU Engineering &#39;24) and Justin Blevins (JMU Engineering &#39;23) presented their research on wearable computing systems and haptic feedback. Their work explores how to provide haptic &amp;quot;instructions&amp;quot; to guide a person&#39;s motion.
+This work is an initial step on our larger progress to create general systems to provide feedback during &lt;a href=&#34;http://jasonforsyth.net/project/physical-therapy/&#34;&gt;physical therapy&lt;/a&gt;. Their poster is available &lt;a href=&#34;http://jasonforsyth.net/pdf/ncur-poster-2023.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Justin will be graduating this semester and beginning work with Northrup Grumman in Charlottesville. Megan is a rising senior and will continue her research as honors thesis by exploring haptic feedback to improve braille reading and writing.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/ncur1.jpg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/ncur1.jpg&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/ncur2.jpg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/ncur2.jpg&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Wearable Computing Lab Researchers Present at Several Conferences</title>
