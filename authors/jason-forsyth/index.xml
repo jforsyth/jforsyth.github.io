@@ -5,12 +5,28 @@
     <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
       <atom:link href="http://jasonforsyth.net/authors/jason-forsyth/index.xml" rel="self" type="application/rss+xml" />
     <description>Jason Forsyth</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Jason Forsyth</title>
       <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
     </image>
+    
+    <item>
+      <title>Analysis of the Machine Learning Classification of Cardiac Disease on Embedded Systems</title>
+      <link>http://jasonforsyth.net/publication/sieds2023-thura/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2023-thura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GymSense: Exploration in Measuring Bench Press Form Using Sensor Technology</title>
+      <link>http://jasonforsyth.net/publication/sieds2023-gymsense/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2023-gymsense/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>WIP: Developing an arts-informed approach to understand students’ perceptions of engineering</title>

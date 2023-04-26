@@ -5,12 +5,76 @@
     <link>http://jasonforsyth.net/authors/</link>
       <atom:link href="http://jasonforsyth.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Authors</title>
       <link>http://jasonforsyth.net/authors/</link>
     </image>
+    
+    <item>
+      <title>Dylan Gnagey</title>
+      <link>http://jasonforsyth.net/authors/dylan-gnagey/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/dylan-gnagey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacob Couch</title>
+      <link>http://jasonforsyth.net/authors/jacob-couch/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jacob-couch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Forsyt</title>
+      <link>http://jasonforsyth.net/authors/jason-forsyt/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jason-forsyt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Forsyth</title>
+      <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Molloy</title>
+      <link>http://jasonforsyth.net/authors/kevin-molloy/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/kevin-molloy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Chung</title>
+      <link>http://jasonforsyth.net/authors/michael-chung/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/michael-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ritavash Chowdhury</title>
+      <link>http://jasonforsyth.net/authors/ritavash-chowdhury/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/ritavash-chowdhury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanda Thura</title>
+      <link>http://jasonforsyth.net/authors/sanda-thura/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/authors/sanda-thura/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diana Franco Duran</title>
@@ -25,22 +89,6 @@
       <link>http://jasonforsyth.net/authors/homero-murzi/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/authors/homero-murzi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Forsyt</title>
-      <link>http://jasonforsyth.net/authors/jason-forsyt/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/jason-forsyt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jason Forsyth</title>
-      <link>http://jasonforsyth.net/authors/jason-forsyth/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/authors/jason-forsyth/</guid>
       <description></description>
     </item>
     

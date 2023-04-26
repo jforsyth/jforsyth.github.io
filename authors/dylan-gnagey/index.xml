@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Gnagey | Jason Forsyth&#39;s Personal Website</title>
+    <link>http://jasonforsyth.net/authors/dylan-gnagey/</link>
+      <atom:link href="http://jasonforsyth.net/authors/dylan-gnagey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan Gnagey</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://jasonforsyth.net/img/icon-192.png</url>
+      <title>Dylan Gnagey</title>
+      <link>http://jasonforsyth.net/authors/dylan-gnagey/</link>
+    </image>
+    
+    <item>
+      <title>GymSense: Exploration in Measuring Bench Press Form Using Sensor Technology</title>
+      <link>http://jasonforsyth.net/publication/sieds2023-gymsense/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/publication/sieds2023-gymsense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
