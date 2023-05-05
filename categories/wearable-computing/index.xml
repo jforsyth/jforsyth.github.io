@@ -5,12 +5,51 @@
     <link>http://jasonforsyth.net/categories/wearable-computing/</link>
       <atom:link href="http://jasonforsyth.net/categories/wearable-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>Wearable Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Wearable Computing</title>
       <link>http://jasonforsyth.net/categories/wearable-computing/</link>
     </image>
+    
+    <item>
+      <title>Papers at SIEDS 2023 and ICAT Day Panelist</title>
+      <link>http://jasonforsyth.net/post/sieds2023/</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/sieds2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Student Research at SIES 2023&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The work of several JMU honors students and capstone projects was presented last week at the &lt;a href=&#34;https://engineering.virginia.edu/ieee-sieds&#34;&gt;2023 IEEE Systems and Information Engineering Design Symposium (SIEDS)&lt;/a&gt; hosted by the University of Virginia. Sanda Thura (JMU Computer Science &#39;23) presented his honors thesis on applications of machine learning for cardiac disease detection on embedded systems. His paper can be viewed &lt;a href=&#34;http://jasonforsyth.net/pdf/thursa-sieds-2023.pdf&#34;&gt;here&lt;/a&gt;. Sanda was advised by myself, Dr. Kevin Molloy (JMU CS), and Dr. Jacob Couch (Johns Hopkins Applied Physics Lab).&lt;/p&gt;
+
+&lt;p&gt;JMU Engineering capstone students (Ritavash Chowdhury, Michael Chung, and Dylan Gnagey) presented their senior project on automated systems to detect correct posture during a bench press exercises. Their paper is available &lt;a href=&#34;http://jasonforsyth.net/pdf/chowdhury-sieds-2023.pdf&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/sanda-sieds.png&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sanda-sieds.png&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/gym-sense-sieds.png&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/gym-sense-sieds.png&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It was my personal pleasure to be the General Chair for SIEDS 2023. I look forward to continuing into 2024 and extending JMU&#39;s engagement with the conference.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/sieds-jmu.png&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/sieds-jmu.png&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;ICAT Day Panelist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It was a pleasure to return home to the &lt;a href=&#34;https://icat.vt.edu/&#34;&gt;Virginia Tech Institute for Creativity Arts and Technology (ICAT)&lt;/a&gt; to speak with current graduate students, explore new projects, and catch up with old friends. It is amazing to think that nearly 8 years have elapsed since my time there, so much of which is fundamental to my growth and identity as a faculty member. I am very appreciative of the opportunities ICAT has provided me.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/icat-panel.jpg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/icat-panel.jpg&#34; alt=&#34;&#34; width=900&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/icat-speaker.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/icat-speaker.jpeg&#34; alt=&#34;&#34; width=900&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Students Present Wearables Research at NCUR 2023</title>

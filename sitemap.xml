@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jasonforsyth.net/categories/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/jmu/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/post/sieds2023/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jasonforsyth.net/categories/wearable-computing/</loc>
+    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jasonforsyth.net/publication_types/1/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
   </url>
@@ -73,32 +103,7 @@
   </url>
   
   <url>
-    <loc>http://jasonforsyth.net/categories/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/jmu/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/post/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://jasonforsyth.net/post/ncur2023/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/undergraduate-research/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://jasonforsyth.net/categories/wearable-computing/</loc>
     <lastmod>2023-04-19T00:00:00+00:00</lastmod>
   </url>
   
