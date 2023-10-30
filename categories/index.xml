@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/categories/</link>
       <atom:link href="http://jasonforsyth.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Thu, 04 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2023</copyright><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Ancient Coins</title>
+      <link>http://jasonforsyth.net/categories/ancient-coins/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/categories/ancient-coins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/jmu/</guid>
       <description></description>
     </item>
