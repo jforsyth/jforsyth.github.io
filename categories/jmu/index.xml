@@ -5,12 +5,52 @@
     <link>http://jasonforsyth.net/categories/jmu/</link>
       <atom:link href="http://jasonforsyth.net/categories/jmu/index.xml" rel="self" type="application/rss+xml" />
     <description>JMU</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
     </image>
+    
+    <item>
+      <title>Undergraduate Researchers Present at CAPWIC and SIEDS 2024</title>
+      <link>http://jasonforsyth.net/post/spring2024/</link>
+      <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/spring2024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Passive Haptic Learning at SIEDS 2024&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Megan Caulfield presented the results of her honors thesis, &lt;a href=&#34;http://jasonforsyth.net/pdf/caulfield-sieds2024.pdf&#34;&gt;&amp;quot;Braille Learning using Haptic Feedback&amp;quot;&lt;/a&gt; at the &lt;a href=&#34;https://engineering.virginia.edu/department/systems-and-information-engineering/academics/undergraduate-programs/current-undergrads/sieds&#34;&gt;2024 IEEE Systems and Information Engineering Sympossium&lt;/a&gt; on May 3rd at the University of Virginia. Her research examined the effectiveness of haptic feedback when learning to read and write braille which is motivated by the challenges of sighted parents and teachers learning braille to suppor their visually impaired children and students. She was advised by myself, Laura Deportes (Education), and Daniel Castaneda (Engineering). A special thanks also to the  Virginia School for the Deaf and Blind for allowing us to tour their facilities.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/caulfield-seids.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/caulfield-seids.jpeg&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This was my final year as the General Chair for SIEDS and I look forward to the continued growth of the conference in the coming years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flash Talks at CAPWIC 2024&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Two new members of the Wearable Computing Group, Julia Larson (Engineering) and Abby Ensogna (Computer Science), presented initial efforts on their work at the ACM Capitol Region Celebration of Women in Computing (CAPWIC).&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/julia-capwic2024.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/julia-capwic2024.jpeg&#34; alt=&#34;&#34; width=900&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/abby-capwic2024.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/abby-capwic2024.jpeg&#34; alt=&#34;&#34; width=900&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Julia&#39;s talk entitled, &amp;quot;Design of a Wearable Coaching System for Shoulder Rehabilitation&amp;quot; discussed her preliminar results extending the research group&#39;s haptic feedback system from two-dimensional motion into additional degrees of freedom to support shoulder and upper-arm rehabilitation. Abby described the pressing challenge in labeling human-activity data in her talk, &amp;quot;Labelling Data in the Field of Wearable Computing&amp;quot;. Her real-time labeling tool for human motions will help the lab more effectively collection data in field user studies.&lt;/p&gt;
+
+&lt;p&gt;The day was extra special as I was able to work with students and faculty across the region in my role as Program Chair. I&#39;m grateful to be supported by the General Chairs, Robbie Hott and Nada Bassit, from the University of Virginia.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/capwic2024.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/capwic2024.jpeg&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Curator of Coins for the Madison Art Collection and Lisanby Museum</title>
@@ -39,7 +79,7 @@ My personal focus is on Ancient Roman coinage during the Imperatorial period fro
       <link>http://jasonforsyth.net/post/sieds2023/</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/post/sieds2023/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Student Research at SIES 2023&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Student Research at SIEDS 2023&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The work of several JMU honors students and capstone projects was presented last week at the &lt;a href=&#34;https://engineering.virginia.edu/ieee-sieds&#34;&gt;2023 IEEE Systems and Information Engineering Design Symposium (SIEDS)&lt;/a&gt; hosted by the University of Virginia. Sanda Thura (JMU Computer Science &#39;23) presented his honors thesis on applications of machine learning for cardiac disease detection on embedded systems. His paper can be viewed &lt;a href=&#34;http://jasonforsyth.net/pdf/thursa-sieds-2023.pdf&#34;&gt;here&lt;/a&gt;. Sanda was advised by myself, Dr. Kevin Molloy (JMU CS), and Dr. Jacob Couch (Johns Hopkins Applied Physics Lab).&lt;/p&gt;
 
