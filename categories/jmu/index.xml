@@ -5,12 +5,29 @@
     <link>http://jasonforsyth.net/categories/jmu/</link>
       <atom:link href="http://jasonforsyth.net/categories/jmu/index.xml" rel="self" type="application/rss+xml" />
     <description>JMU</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
     </image>
+    
+    <item>
+      <title>Tenure</title>
+      <link>http://jasonforsyth.net/post/tenure/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/tenure/</guid>
+      <description>&lt;p&gt;Based upon action by the JMU Board of Visitors on April 19th I have been granted tenure effective August 21th, 2024.&lt;/p&gt;
+
+&lt;p&gt;This could not be accomplished without the tremendous support of many people including: the other members of the &amp;quot;Engineering Triplets&amp;quot; Shraddha Joshi and Daniel Castaneda who started with me in 2018, my CS &amp;quot;brothers-in-law&amp;quot; of Michael Stewart and Kevin Molloy, my doctoral advisor Tom Martin, the multitude of &lt;a href=&#34;https://www.jasonforsyth.net/categories/undergraduate-research/&#34;&gt;undergraduate researchers&lt;/a&gt; who have passed through the Wearable Computing Group, and the constant love and support of my wife, Katie Forsyth.&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/tenure.jpeg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/tenure.jpeg&#34; alt=&#34;&#34; &gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>Undergraduate Researchers Present at CAPWIC and SIEDS 2024</title>
