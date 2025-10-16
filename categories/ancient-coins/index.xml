@@ -5,12 +5,41 @@
     <link>http://jasonforsyth.net/categories/ancient-coins/</link>
       <atom:link href="http://jasonforsyth.net/categories/ancient-coins/index.xml" rel="self" type="application/rss+xml" />
     <description>Ancient Coins</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2025</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Ancient Coins</title>
       <link>http://jasonforsyth.net/categories/ancient-coins/</link>
     </image>
+    
+    <item>
+      <title>Students Present at Virginia Academy of Science and CS Research Day</title>
+      <link>http://jasonforsyth.net/post/spring2025/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/post/spring2025/</guid>
+      <description>&lt;p&gt;Several research students presented their work this semester in various fields.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Julia Larson at Virginia Academy of Science&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/julia-vas.jpg&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/julia-vas.jpg&#34; alt=&#34;&#34;&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Julia Larson (Engineering &#39;26) presented her research on haptic corrective feedback during exercise at the &lt;a href=&#34;https://www.vacadsci.org/2025_annual_meeting.php&#34;&gt;Virginia Academy of Science Annual Meeting&lt;/a&gt; at the University of Virginia. Her work examines whether feedback at the site of muscle activation is comparable or more effective than methods which target movement of the individual limb or joint. Her poster is available online (&lt;a href=&#34;http://jasonforsyth.net/pdf/larson-vas-poster.pdf&#34;&gt;PDF&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jackson Greer on Deep Metric Learning for Ancient Coin Identification&lt;/strong&gt;&lt;/p&gt;
+
+&lt;table width=&#34;99%&#34;&gt;
+ &lt;tr&gt;
+  &lt;td&gt;&lt;a href = &#34;/img/jackson-cs.JPG&#34;&gt;&lt;img src=&#34;http://jasonforsyth.net/img/jackson-cs.JPG&#34; alt=&#34;&#34; width=&#34;900&#34;&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Jackson Greer (CS &#39;25) presented his research on deep learning methods for ancient coin identification and historical provenance recovery. His work will assist the Madison Art Collection in recovering lost ownership information from the &lt;a href=&#34;https://www.jmu.edu/madisonart/_coin_collection.shtml&#34;&gt;Sawhill Ancient Coin Collection&lt;/a&gt;. He applied various deep metric learning methods to existing datasets of Roman Republican coins and validated his approach from sample images from the Sawhill collection. His presentation is available online (&lt;a href=&#34;http://jasonforsyth.net/pdf/greer-deep-metric-learning.pdf&#34;&gt;PDF&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Curator of Coins for the Madison Art Collection and Lisanby Museum</title>

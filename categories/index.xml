@@ -5,7 +5,7 @@
     <link>http://jasonforsyth.net/categories/</link>
       <atom:link href="http://jasonforsyth.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2024</copyright><lastBuildDate>Tue, 07 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2025</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://jasonforsyth.net/img/icon-192.png</url>
       <title>Categories</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Ancient Coins</title>
+      <link>http://jasonforsyth.net/categories/ancient-coins/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://jasonforsyth.net/categories/ancient-coins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>JMU</title>
       <link>http://jasonforsyth.net/categories/jmu/</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/jmu/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Undergraduate Research</title>
       <link>http://jasonforsyth.net/categories/undergraduate-research/</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/undergraduate-research/</guid>
       <description></description>
     </item>
@@ -33,14 +41,6 @@
       <link>http://jasonforsyth.net/categories/wearable-computing/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       <guid>http://jasonforsyth.net/categories/wearable-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ancient Coins</title>
-      <link>http://jasonforsyth.net/categories/ancient-coins/</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://jasonforsyth.net/categories/ancient-coins/</guid>
       <description></description>
     </item>
     
