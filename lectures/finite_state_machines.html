@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finite State Machines in C++</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            overflow: hidden;
+        }
+
+        .slide-container {
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px;
+        }
+
+        .slide {
+            display: none;
+            position: absolute;
+            width: 90vw;
+            max-width: 1400px;
+            height: 85vh;
+            background: white;
+            border-radius: 8px;
+            padding: 50px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+            overflow-y: auto;
+        }
+
+        .slide.active {
+            display: block;
+            animation: slideIn 0.5s ease;
+        }
+
+        .title-slide.active {
+            display: flex;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        h1 {
+            color: #667eea;
+            font-size: clamp(1.8em, 5vw, 3em);
+            margin-bottom: 20px;
+            border-bottom: 4px solid #667eea;
+            padding-bottom: 15px;
+        }
+
+        h2 {
+            color: #764ba2;
+            font-size: clamp(1.5em, 4vw, 2.2em);
+            margin-bottom: 25px;
+            margin-top: 20px;
+        }
+
+        h3 {
+            color: #555;
+            font-size: clamp(1.1em, 3vw, 1.5em);
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+
+        p, li {
+            font-size: clamp(1em, 2.5vw, 1.3em);
+            line-height: 1.8;
+            color: #333;
+            margin-bottom: 15px;
+        }
+
+        ul, ol {
+            margin-left: 40px;
+            margin-bottom: 20px;
+        }
+
+        code {
+            background: #f4f4f4;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            color: #d63384;
+            font-size: 0.95em;
+        }
+
+        pre {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 25px;
+            border-radius: 10px;
+            overflow-x: auto;
+            margin: 20px 0;
+            font-size: clamp(0.9em, 2vw, 1.1em);
+            line-height: 1.6;
+        }
+
+        pre code {
+            background: none;
+            color: #f8f8f2;
+            padding: 0;
+            font-size: 1em;
+        }
+
+        .controls {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            display: flex;
+            gap: 15px;
+            z-index: 100;
+        }
+
+        button {
+            padding: 12px 24px;
+            font-size: clamp(0.9em, 2vw, 1.1em);
+            border: none;
+            background: white;
+            color: #667eea;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transition: all 0.3s ease;
+        }
+
+        button:hover:not(:disabled) {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .slide-number {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: white;
+            padding: 10px 20px;
+            border-radius: 30px;
+            font-weight: bold;
+            color: #667eea;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            font-size: clamp(0.9em, 2vw, 1em);
+        }
+
+        .title-slide {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .title-slide h1 {
+            font-size: clamp(2em, 7vw, 4em);
+            border: none;
+        }
+
+        .title-slide p {
+            font-size: clamp(1em, 3vw, 1.5em);
+            color: #666;
+            margin-top: 20px;
+        }
+
+        .highlight {
+            background: #fff3cd;
+            padding: 15px;
+            border-left: 5px solid #ffc107;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .info-box {
+            background: #d1ecf1;
+            padding: 15px;
+            border-left: 5px solid #17a2b8;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        .success-box {
+            background: #d4edda;
+            padding: 15px;
+            border-left: 5px solid #28a745;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: clamp(0.85em, 2vw, 1em);
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background: #667eea;
+            color: white;
+        }
+
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+
+        .fsm-diagram {
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border: 2px solid #667eea;
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .state-circle {
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: #667eea;
+            color: white;
+            line-height: 100px;
+            margin: 10px;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .state-circle.initial {
+            border: 4px solid #28a745;
+        }
+
+        .state-circle.final {
+            border: 4px solid #dc3545;
+        }
+
+        .arrow {
+            display: inline-block;
+            margin: 0 10px;
+            font-size: 2em;
+            color: #667eea;
+        }
+
+        .fsm-svg {
+            width: 100%;
+            max-width: 800px;
+            margin: 20px auto;
+            display: block;
+        }
+
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .slide {
+                padding: 20px;
+                height: calc(100vh - 120px);
+            }
+
+            ul, ol {
+                margin-left: 20px;
+            }
+
+            .controls {
+                gap: 10px;
+            }
+
+            button {
+                padding: 10px 20px;
+            }
+
+            table {
+                font-size: 0.8em;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+
+            .state-circle {
+                width: 80px;
+                height: 80px;
+                line-height: 80px;
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="slide-number" id="slideNumber">1 / 12</div>
+    
+    <div class="slide-container">
+        <!-- Slide 1: Title -->
+        <div class="slide active title-slide">
+            <h1>Finite State Machines</h1>
+            <h2>ENGR 445: Embedded System Design</h2>
+            <p>Understanding and Implementing FSMs in C++</p>
+        </div>
+
+        <!-- Slide 2: What is a Finite State Machine? -->
+        <div class="slide">
+            <h1>What is a Finite State Machine?</h1>
+            <p>A <strong>Finite State Machine (FSM)</strong> is a computational model that can be in exactly one of a finite number of states at any given time.</p>
+            
+            <h3>Key Concepts</h3>
+            <ul>
+                <li><strong>State:</strong> A distinct condition or situation the system can be in</li>
+                <li><strong>Transition:</strong> Movement from one state to another based on inputs/events</li>
+                <li><strong>Input:</strong> External events or data that trigger transitions</li>
+                <li><strong>Action:</strong> Operations performed in a state or during a transition</li>
+            </ul>
+
+            <div class="highlight">
+                <strong>Real-World Examples:</strong>
+                <ul style="margin-top: 10px;">
+                    <li>Traffic lights (Red → Yellow → Green)</li>
+                    <li>Vending machines (Idle → Selecting → Dispensing)</li>
+                    <li>Door locks (Locked → Unlocked)</li>
+                    <li>Protocol handlers (Waiting → Receiving → Processing)</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 3: Why Use FSMs in Embedded Systems? -->
+        <div class="slide">
+            <h1>Why Use FSMs in Embedded Systems?</h1>
+            
+            <h3>Benefits</h3>
+            <ul>
+                <li><strong>Clarity:</strong> Clear visual representation of system behavior</li>
+                <li><strong>Maintainability:</strong> Easy to modify and extend</li>
+                <li><strong>Predictability:</strong> Deterministic behavior - same input always produces same output</li>
+                <li><strong>Testability:</strong> Each state can be tested independently</li>
+                <li><strong>Documentation:</strong> FSM diagrams serve as living documentation</li>
+            </ul>
+
+            <div class="info-box">
+                <strong>Embedded Systems Context:</strong><br>
+                FSMs are ideal for embedded systems because they:
+                <ul style="margin-top: 10px;">
+                    <li>Use minimal memory (just state variables)</li>
+                    <li>Execute quickly (simple switch statements)</li>
+                    <li>Handle interrupts and events cleanly</li>
+                    <li>Scale well from simple to complex behaviors</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Slide 4: Example Problem - Number Summer -->
+        <div class="slide">
+            <h1>Example Problem: Number Summer</h1>
+            
+            <h3>Problem Statement</h3>
+            <p>Design a system that:</p>
+            <ol>
+                <li>Reads a stream of integer numbers from input</li>
+                <li>Accumulates (sums) all numbers received</li>
+                <li>When the value <strong>9</strong> is received, output the sum</li>
+                <li>Reset and start over for the next sequence</li>
+            </ol>
+
+            <h3>Example</h3>
+            <pre><code>Input:  3, 5, 2, 9, 1, 4, 7, 9, ...
+        ─────────┘     └─────────┘
+         sum = 10       sum = 12
+
+Output: 10            12</code></pre>
+
+            <div class="highlight">
+                <strong>Think:</strong> What states do we need? What transitions occur? What actions happen in each state?
+            </div>
+        </div>
+
+        <!-- Slide 5: FSM Diagram -->
+        <div class="slide">
+            <h1>FSM Diagram: Number Summer (Moore Machine)</h1>
+            
+            <svg class="fsm-svg" viewBox="0 0 700 400" xmlns="http://www.w3.org/2000/svg">
+                <!-- Initial marker -->
+                <circle cx="50" cy="175" r="8" fill="#28a745"/>
+                <line x1="58" y1="175" x2="95" y2="175" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+                
+                <!-- IDLE State -->
+                <circle cx="150" cy="175" r="50" fill="#667eea" stroke="#333" stroke-width="2"/>
+                <text x="150" y="168" text-anchor="middle" fill="white" font-weight="bold" font-size="18">IDLE</text>
+                <text x="150" y="188" text-anchor="middle" fill="white" font-size="10" font-style="italic">sum = input</text>
+                
+                <!-- ACCUMULATING State -->
+                <circle cx="350" cy="175" r="50" fill="#667eea" stroke="#333" stroke-width="2"/>
+                <text x="350" y="165" text-anchor="middle" fill="white" font-weight="bold" font-size="16">ACCUM</text>
+                <text x="350" y="182" text-anchor="middle" fill="white" font-size="10" font-style="italic">sum += input</text>
+                <text x="350" y="193" text-anchor="middle" fill="white" font-size="9" font-style="italic">(if ≠ 9)</text>
+                
+                <!-- OUTPUTTING State -->
+                <circle cx="550" cy="175" r="50" fill="#dc3545" stroke="#333" stroke-width="3"/>
+                <text x="550" y="162" text-anchor="middle" fill="white" font-weight="bold" font-size="16">OUTPUT</text>
+                <text x="550" y="180" text-anchor="middle" fill="white" font-size="10" font-style="italic">print sum</text>
+                <text x="550" y="191" text-anchor="middle" fill="white" font-size="10" font-style="italic">reset sum</text>
+                
+                <!-- Transition: IDLE to ACCUMULATING -->
+                <path d="M 200 175 L 298 175" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+                <text x="250" y="165" text-anchor="middle" font-size="14" fill="#333">input ≠ 9</text>
+                
+                <!-- Transition: ACCUMULATING self-loop -->
+                <path d="M 350 125 Q 350 75, 350 125" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+                <text x="350" y="60" text-anchor="middle" font-size="14" fill="#333">input ≠ 9</text>
+                
+                <!-- Transition: ACCUMULATING to OUTPUTTING -->
+                <path d="M 400 175 L 498 175" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+                <text x="450" y="165" text-anchor="middle" font-size="14" fill="#333">input == 9</text>
+                
+                <!-- Transition: OUTPUTTING to IDLE -->
+                <path d="M 530 215 Q 350 280, 170 215" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+                <text x="350" y="295" text-anchor="middle" font-size="14" fill="#333">always</text>
+                
+                <!-- Arrow marker definition -->
+                <defs>
+                    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+                        <polygon points="0 0, 10 3, 0 6" fill="#333"/>
+                    </marker>
+                </defs>
+            </svg>
+
+            <h3>State Descriptions (Moore Machine)</h3>
+            <table>
+                <tr>
+                    <th>State</th>
+                    <th>Description</th>
+                    <th>Output/Action</th>
+                </tr>
+                <tr>
+                    <td><strong>IDLE</strong></td>
+                    <td>Waiting for first input</td>
+                    <td>sum = input (initialize)</td>
+                </tr>
+                <tr>
+                    <td><strong>ACCUMULATING</strong></td>
+                    <td>Reading and summing numbers</td>
+                    <td>sum += input (if not terminator)</td>
+                </tr>
+                <tr>
+                    <td><strong>OUTPUTTING</strong></td>
+                    <td>Displaying result</td>
+                    <td><strong>print sum, reset sum</strong> (output)</td>
+                </tr>
+            </table>
+            
+            <div class="info-box" style="margin-top: 20px;">
+                <strong>Moore Machine:</strong> Outputs are determined by the current state only. Each state has an associated action that executes while in that state.
+            </div>
+        </div>
+
+        <!-- Slide 6: C++ Implementation Strategy -->
+        <div class="slide">
+            <h1>C++ Implementation Strategy</h1>
+            
+            <h3>Key Components</h3>
+            
+            <h3>1. Define States Using Enum</h3>
+            <pre><code>enum State {
+    STATE_IDLE,
+    STATE_ACCUMULATING,
+    STATE_OUTPUTTING
+};</code></pre>
+
+            <h3>2. State Variables</h3>
+            <pre><code>State current_state = STATE_IDLE;
+State next_state = STATE_IDLE;
+int sum = 0;</code></pre>
+
+            <h3>3. Main Loop Structure (Moore Machine)</h3>
+            <pre><code>while (true) {
+    // Execute current state logic
+    switch (current_state) {
+        case STATE_IDLE:
+            // State action (output based on state)
+            // Next state logic (based on input)
+            break;
+        // ... other states
+    }
+    
+    // Update state at end of iteration
+    current_state = next_state;
+}</code></pre>
+            
+            <div class="info-box">
+                <strong>Moore Machine Pattern:</strong> Actions execute based on the current state, then next state is determined by examining inputs.
+            </div>
+        </div>
+
+        <!-- Slide 7: Complete Implementation -->
+        <div class="slide">
+            <h1>Complete C++ Implementation</h1>
+            
+            <pre><code>#include &lt;iostream&gt;
+using namespace std;
+
+// Define the states
+enum State {
+    STATE_IDLE,
+    STATE_ACCUMULATING,
+    STATE_OUTPUTTING
+};
+
+int main() {
+    // State variables
+    State current_state = STATE_IDLE;
+    State next_state = STATE_IDLE;
+    
+    // Data variables
+    int sum = 0;
+    int input;
+    
+    cout &lt;&lt; "Enter numbers (9 to output sum, Ctrl+D to exit):" &lt;&lt; endl;
+    
+    // Main FSM loop
+    while (true) {
+        // Read input at top of loop
+        if (!(cin &gt;&gt; input)) {
+            break;  // Exit on EOF
+        }
+        
+        switch (current_state) {
+            case STATE_IDLE:
+                // State Action: Initialize with first value (Moore output)
+                sum = input;
+                
+                // Next State Logic: Examine input
+                if (input != 9) {
+                    next_state = STATE_ACCUMULATING;
+                } else {
+                    // Edge case: first input is the terminator
+                    next_state = STATE_OUTPUTTING;
+                }
+                break;
+                
+            case STATE_ACCUMULATING:
+                // State Action: Add to sum (Moore output)
+                if (input != 9) {
+                    sum += input;
+                    // Next State Logic: Stay in ACCUMULATING
+                    next_state = STATE_ACCUMULATING;
+                } else {
+                    // Don't add the terminator
+                    // Next State Logic: Move to OUTPUTTING
+                    next_state = STATE_OUTPUTTING;
+                }
+                break;
+                
+            case STATE_OUTPUTTING:
+                // State Action: Display result (Moore output)
+                cout &lt;&lt; "Sum: " &lt;&lt; sum &lt;&lt; endl;
+                sum = 0;  // Reset for next sequence
+                
+                // Next State Logic: Always return to IDLE
+                next_state = STATE_IDLE;
+                break;
+        }
+        
+        // Update state at end of loop iteration
+        current_state = next_state;
+    }
+    
+    return 0;
+}</code></pre>
+        </div>
+
+        <!-- Slide 8: State Implementation Details -->
+        <div class="slide">
+            <h1>Understanding Each State</h1>
+            
+            <h3>STATE_IDLE</h3>
+            <ul>
+                <li><strong>Purpose:</strong> Entry point, start new sequence</li>
+                <li><strong>State Action (Moore Output):</strong> Initialize sum with first input value</li>
+                <li><strong>Next State Logic:</strong> If input ≠ 9 → ACCUMULATING, else → OUTPUTTING</li>
+            </ul>
+
+            <h3>STATE_ACCUMULATING</h3>
+            <ul>
+                <li><strong>Purpose:</strong> Collecting numbers and building the sum</li>
+                <li><strong>State Action (Moore Output):</strong> Add current input to sum (skip if input == 9)</li>
+                <li><strong>Next State Logic:</strong> If input ≠ 9 → stay in ACCUMULATING, else → OUTPUTTING</li>
+            </ul>
+
+            <h3>STATE_OUTPUTTING</h3>
+            <ul>
+                <li><strong>Purpose:</strong> Display the accumulated result</li>
+                <li><strong>State Action (Moore Output):</strong> Print sum, then reset sum to 0</li>
+                <li><strong>Next State Logic:</strong> Always → IDLE (ready for next sequence)</li>
+            </ul>
+
+            <div class="highlight">
+                <strong>Moore Machine Key Point:</strong> Each state's action (output) executes based on <em>being in that state</em>, not on the transition. Actions are associated with states, not transitions.
+            </div>
+        </div>
+
+        <!-- Slide 9: Example Execution Trace -->
+        <div class="slide">
+            <h1>Example Execution Trace</h1>
+            
+            <table>
+                <tr>
+                    <th>Input</th>
+                    <th>Current State</th>
+                    <th>State Action</th>
+                    <th>Sum</th>
+                    <th>Next State</th>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>IDLE</td>
+                    <td>sum = 3</td>
+                    <td>3</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>ACCUMULATING</td>
+                    <td>sum += 5</td>
+                    <td>8</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>ACCUMULATING</td>
+                    <td>sum += 2</td>
+                    <td>10</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>ACCUMULATING</td>
+                    <td>(skip - terminator)</td>
+                    <td>10</td>
+                    <td>OUTPUTTING</td>
+                </tr>
+                <tr>
+                    <td>(awaiting next)</td>
+                    <td>OUTPUTTING</td>
+                    <td>print "Sum: 10", reset</td>
+                    <td>0</td>
+                    <td>IDLE</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>IDLE</td>
+                    <td>sum = 1</td>
+                    <td>1</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>ACCUMULATING</td>
+                    <td>sum += 4</td>
+                    <td>5</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>ACCUMULATING</td>
+                    <td>sum += 7</td>
+                    <td>12</td>
+                    <td>ACCUMULATING</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>ACCUMULATING</td>
+                    <td>(skip - terminator)</td>
+                    <td>12</td>
+                    <td>OUTPUTTING</td>
+                </tr>
+                <tr>
+                    <td>(awaiting next)</td>
+                    <td>OUTPUTTING</td>
+                    <td>print "Sum: 12", reset</td>
+                    <td>0</td>
+                    <td>IDLE</td>
+                </tr>
+            </table>
+            
+            <div class="info-box" style="margin-top: 20px;">
+                <strong>Note:</strong> This is a practical Moore machine - actions are determined by the state, but may conditionally process the input. The key is that outputs/actions are associated with states, not transitions.
+            </div>
+        </div>
+
+        <!-- Slide 10: Best Practices -->
+        <div class="slide">
+            <h1>FSM Best Practices in C++</h1>
+            
+            <h3>✅ Do's</h3>
+            <ul>
+                <li>Use <code>enum</code> or <code>enum class</code> for states (type-safe)</li>
+                <li>Keep action logic and next-state logic separate within each case</li>
+                <li>Always update <code>current_state = next_state</code> at the end of loop</li>
+                <li>Initialize <code>next_state</code> explicitly in every case</li>
+                <li>Document state transitions with comments</li>
+                <li>Draw the FSM diagram before coding</li>
+            </ul>
+
+            <h3>❌ Don'ts</h3>
+            <ul>
+                <li>Don't modify <code>current_state</code> directly inside the switch</li>
+                <li>Don't use magic numbers for states - always use named enums</li>
+                <li>Don't forget the <code>break</code> statement in switch cases</li>
+                <li>Don't create overly complex states - break them down</li>
+                <li>Don't leave transition conditions ambiguous</li>
+            </ul>
+
+            <div class="success-box">
+                <strong>Key Takeaway:</strong> FSMs provide a structured, maintainable way to handle complex control flow in embedded systems. The pattern of enum + switch + state variables is efficient and scales well.
+            </div>
+        </div>
+
+        <!-- Slide 11: Variations and Extensions -->
+        <div class="slide">
+            <h1>FSM Variations</h1>
+            
+            <h3>Moore vs. Mealy Machines</h3>
+            <table>
+                <tr>
+                    <th>Type</th>
+                    <th>Moore Machine</th>
+                    <th>Mealy Machine</th>
+                </tr>
+                <tr>
+                    <td><strong>Output depends on</strong></td>
+                    <td>Current state only</td>
+                    <td>Current state AND input</td>
+                </tr>
+                <tr>
+                    <td><strong>When actions execute</strong></td>
+                    <td>On entering a state</td>
+                    <td>During transitions</td>
+                </tr>
+                <tr>
+                    <td><strong>Code pattern</strong></td>
+                    <td>Actions at start of case</td>
+                    <td>Actions in transition logic</td>
+                </tr>
+            </table>
+
+            <div class="info-box">
+                <strong>Our Example:</strong> The Number Summer is a <strong>Moore machine</strong> because outputs (printing sum, accumulating, resetting) are determined by which state we're in, not by the input that caused the transition.
+            </div>
+
+            <h3>Extensions You Can Try</h3>
+            <ul>
+                <li>Add a state to compute average instead of sum</li>
+                <li>Use different terminator values (e.g., negative numbers)</li>
+                <li>Add error handling for invalid inputs</li>
+                <li>Implement timeout states using timers</li>
+                <li>Create nested FSMs for complex behaviors</li>
+            </ul>
+        </div>
+
+        <!-- Slide 12: Summary -->
+        <div class="slide">
+            <h1>Summary</h1>
+            
+            <h3>What We Learned</h3>
+            <ul>
+                <li>✓ Finite State Machines model systems as discrete states</li>
+                <li>✓ Moore machines associate actions with states (outputs determined by state)</li>
+                <li>✓ FSMs are ideal for embedded systems - efficient and clear</li>
+                <li>✓ Implementation pattern: <code>enum</code> + <code>switch</code> + state variables</li>
+                <li>✓ Each state case handles actions and determines next state</li>
+                <li>✓ Update <code>current_state = next_state</code> at end of loop</li>
+            </ul>
+
+            <h3>Key Implementation Pattern (Moore Machine)</h3>
+            <pre><code>enum State { /* define states */ };
+State current_state = INITIAL_STATE;
+State next_state = INITIAL_STATE;
+
+while (running) {
+    switch (current_state) {
+        case STATE_A:
+            // 1. State action/output (determined by being in STATE_A)
+            doStateAction();
+            
+            // 2. Determine next_state based on conditions
+            if (condition) {
+                next_state = STATE_B;
+            }
+            break;
+        case STATE_B:
+            // ...
+            break;
+    }
+    current_state = next_state;  // Update at end
+}</code></pre>
+
+            <div class="success-box">
+                <strong>Next Steps:</strong> Practice by implementing FSMs for common embedded scenarios: button debouncing, protocol handlers, LED sequences, menu systems.
+            </div>
+        </div>
+
+    </div>
+
+    <div class="controls">
+        <button id="prevBtn" onclick="changeSlide(-1)">← Previous</button>
+        <button id="nextBtn" onclick="changeSlide(1)">Next →</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.getElementsByClassName('slide');
+        const totalSlides = slides.length;
+
+        function showSlide(n) {
+            if (n >= totalSlides) currentSlide = totalSlides - 1;
+            if (n < 0) currentSlide = 0;
+            
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].classList.remove('active');
+            }
+            
+            slides[currentSlide].classList.add('active');
+            
+            // Update slide number
+            document.getElementById('slideNumber').textContent = `${currentSlide + 1} / ${totalSlides}`;
+            
+            // Update button states
+            document.getElementById('prevBtn').disabled = currentSlide === 0;
+            document.getElementById('nextBtn').disabled = currentSlide === totalSlides - 1;
+        }
+
+        function changeSlide(direction) {
+            currentSlide += direction;
+            showSlide(currentSlide);
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'ArrowLeft') {
+                changeSlide(-1);
+            } else if (event.key === 'ArrowRight') {
+                changeSlide(1);
+            }
+        });
+
+        // Initialize
+        showSlide(0);
+    </script>
+</body>
+</html>
