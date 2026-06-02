@@ -23,7 +23,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-x-ray-imaging-to-identify-ancient-fakes",
+        },{id: "post-julia-larson-graduates-with-honors-on-to-penn-state-phd",
+        
+          title: 'Julia Larson Graduates with Honors; On to Penn State PhD <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Julia Larson graduated this semester. Next stop is Penn State Biomedical Engineering PhD",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://jmu-wearable-computing.github.io/blog/2026/graduation/", "_blank");
+          
+        },
+      },{id: "post-prof-tara-burns-presents-vr-work-at-moco-2026",
+        
+          title: 'Prof. Tara Burns Presents VR Work at MOCO 2026 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Tara Burns presents new VR work at MOCO&#39;26",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://jmu-wearable-computing.github.io/blog/2026/moco2026/", "_blank");
+          
+        },
+      },{id: "post-x-ray-imaging-to-identify-ancient-fakes",
         
           title: 'X-ray Imaging to Identify Ancient Fakes <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
