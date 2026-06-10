@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Associate Professor of Engineering<br>Curator of Coins at the Madison Art Collection<br>James Madison University</em>
+subtitle: <em>Eminent Associate Professor of Engineering<br>Oliver Professor for Artificial Intelligence<br>Curator of Coins at the Madison Art Collection<br>James Madison University</em>
 
 profile:
   align: right
