@@ -34,6 +34,17 @@ ninja.data = [{
             window.open("https://jmu-wearable-computing.github.io/blog/2026/graduation/", "_blank");
           
         },
+      },{id: "post-student-presentations-on-deep-metric-learning-for-coin-identification",
+        
+          title: 'Student Presentations on Deep Metric Learning for Coin Identification <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Trevor Schonbrun and Dhanshrée Aire present research on ancient coin identification at regional conferences",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://coin-research-group.github.io/blog/2026/student-presentations/", "_blank");
+          
+        },
       },{id: "post-prof-tara-burns-presents-vr-work-at-moco-2026",
         
           title: 'Prof. Tara Burns Presents VR Work at MOCO 2026 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
