@@ -34,6 +34,17 @@ ninja.data = [{
             window.open("https://jmu-wearable-computing.github.io/blog/2026/graduation/", "_blank");
           
         },
+      },{id: "post-movement-motion-capture-and-machines-a-new-dance-engineering-course",
+        
+          title: 'Movement, Motion Capture, and Machines: A New Dance + Engineering Course <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Prof. Forsyth co-taught a new interdisciplinary course pairing motion capture and embedded sensing with dance, culminating in a public showcase",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://jmu-wearable-computing.github.io/blog/2026/dance-tech/", "_blank");
+          
+        },
       },{id: "post-student-presentations-on-deep-metric-learning-for-coin-identification",
         
           title: 'Student Presentations on Deep Metric Learning for Coin Identification <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
