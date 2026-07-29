@@ -30,5 +30,5 @@ I serve as Co-Director of the [Wearable Computing Group](https://jmu-wearable-co
 
 I also serve as Co-Director of the [COIN Research Group](https://www.recoveringsawhill.com/) and Curator of Coins for the [Madison Art Collection](https://www.jmu.edu/madisonart/index.shtml), where we apply computer vision and machine learning methods to problems in coin classification and provenance recovery. Also, we conduct archival and digitization work to protect numismatic collections.
 
- Visit the linked sites or browse the newsfeed below to learn more about our ongoing research projects and student achievements. Feel free to contact me at forsy2jb {at} jmu.edu. My full CV can be found [here]({{ '/assets/pdf/Jason-Forsyth-CV.pdf' | relative_url }}).
+ Visit the linked sites or browse the newsfeed below to learn more about our ongoing research projects and student achievements. Feel free to contact me at forsy2jb {at} jmu.edu. My full CV can be found [here]({{ '/assets/pdf/Jason-Forsyth-CV.pdf' | relative_url }}). 
 
