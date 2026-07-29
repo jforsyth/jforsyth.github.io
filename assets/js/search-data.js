@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-julia-larson-graduates-with-honors-on-to-penn-state-phd",
+        },{id: "post-paper-accepted-at-icmla-2026-metric-learning-for-ancient-coin-identification",
+        
+          title: 'Paper Accepted at ICMLA 2026: Metric Learning for Ancient Coin Identification <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Our paper on using metric learning to match ancient coin images across auction catalogs has been accepted.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://coin-research-group.github.io/blog/2026/icmla-paper-accepted/", "_blank");
+          
+        },
+      },{id: "post-julia-larson-graduates-with-honors-on-to-penn-state-phd",
         
           title: 'Julia Larson Graduates with Honors; On to Penn State PhD <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
