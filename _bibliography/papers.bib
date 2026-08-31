@@ -122,6 +122,19 @@
 
 % ==================== CONFERENCE PAPERS ====================
 
+@inproceedings{sprague2026icmla,
+  title={Metric Learning for Ancient Coin Identification},
+  author={Sprague, Nathan R. and Forsyth, Jason B. and Schonbrun, Trevor and Atre, Dhanshree D. and Lu, Quinnie},
+  booktitle={25th International Conference on Machine Learning and Applications (ICMLA)},
+  year={2026},
+  month=oct,
+  location={Rochester, Michigan},
+  abbr={ICMLA},
+  pdf={sprague-icmla-2026.pdf},
+  abstract={Ancient coin identification is an instance-level recognition problem with a difficult data regime: large public collections provide many coin identities, but usually only one image per physical coin, while confirmed same-coin pairs from independent sources are scarce. Because such paired datasets are costly and likely to remain small, we ask how they can best be combined with abundant single-image public data. We test whether scarce paired data can be used effectively as an adaptation signal for tuning augmentations, which then provide synthetic repeated views of the public single-image identities used to train an embedding model. Our ArcFace-based pipeline tunes augmentation hyperparameters on repeated-image validation data and trains on public coin identities. For controlled evaluation, we introduce a curated dataset of 3,708 images covering 309 coin sides under varied lighting and reproduction conditions, including print-scan catalog-style artifacts. In this controlled setting, direct paired training achieves 98.01% Recall@1, while augmentation-guided public-data training achieves 94.57% without using paired identities as supervised training classes. Ablations identify augmentation tuning and preservation of intermediate spatial features as the principal contributors to public-data performance.},
+  keywords={metric learning; ArcFace; data augmentation; hyperparameter search; fine-grained recognition; ancient coin identification},
+}
+
 @inproceedings{caulfield2024sieds,
   title={Braille Learning using Haptic Feedback},
   author={Caulfield, Megan and Forsyth, Jason and Deportes, Laura and Castaneda, Daniel},
